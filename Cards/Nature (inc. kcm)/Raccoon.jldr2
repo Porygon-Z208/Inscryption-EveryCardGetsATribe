@@ -1,0 +1,33 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer",
+    "AscensionUnlock",
+    "GBCPack",
+    "GBCPlayable"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "Lily.BOT.feline" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "OpponentBones"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": true,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "tailName": "Tail_Furry",
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "cardComplexity": "Advanced",
+  "onePerDeck": false,
+  "name": "Raccoon",
+  "displayedName": "Raccoon",
+  "description": "The thieving Raccoon! It gathers the bones of my creatures for you.",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 1,
+  "appearanceBehaviour": []
+}

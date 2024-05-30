@@ -1,0 +1,33 @@
+{
+  "metaCategories": [
+    "GBCPack",
+    "GBCPlayable"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [
+    "Bird"
+  ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "Flying"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "baseHealth": 1,
+  "bloodCost": 2,
+  "cardComplexity": "Simple",
+  "onePerDeck": false,
+  "name": "ECGT_Hawk",
+  "displayedName": "Hawk",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 3,
+  "appearanceBehaviour": [],
+  "modPrefix": "ECGT",
+  "texture": "Hawk.png"
+}

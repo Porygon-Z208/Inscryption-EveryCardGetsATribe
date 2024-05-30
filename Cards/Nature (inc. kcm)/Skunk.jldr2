@@ -1,0 +1,32 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer",
+    "GBCPack",
+    "GBCPlayable"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "Lily.BOT.feline" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "DebuffEnemy"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": true,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "tailName": "Tail_Furry",
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "cardComplexity": "Simple",
+  "onePerDeck": false,
+  "name": "Skunk",
+  "displayedName": "Skunk",
+  "description": "The reviled Skunk. Its stench reduces the strength of the enemy.",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 0,
+  "appearanceBehaviour": []
+}

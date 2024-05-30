@@ -1,0 +1,26 @@
+{
+  "metaCategories": [],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "Lily.BOT.feline", "Lily.BOT.undead" ],
+  "traits": [
+    "Undead"
+  ],
+  "specialAbilities": [],
+  "abilities": [],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "baseHealth": 6,
+  "bloodCost": 1,
+  "cardComplexity": "Simple",
+  "onePerDeck": false,
+  "name": "CatUndead",
+  "displayedName": "Undead Cat",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 3,
+  "appearanceBehaviour": []
+}

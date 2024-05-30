@@ -1,0 +1,27 @@
+{
+  "metaCategories": [
+    "Rare"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.security" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 4,
+  "bonesCost": 0,
+  "baseHealth": 3,
+  "bloodCost": 0,
+  "onePerDeck": false,
+  "name": "ECGT_CurveHopper",
+  "displayedName": "Curve Hopper",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 2,
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "modPrefix": "ECGT",
+  "texture": "CurveHopper.png"
+}

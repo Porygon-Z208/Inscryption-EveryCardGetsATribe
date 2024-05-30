@@ -1,0 +1,31 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.conduits" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "ConduitBuffAttack"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 2,
+  "bonesCost": 0,
+  "baseHealth": 2,
+  "bloodCost": 0,
+  "cardComplexity": "Advanced",
+  "onePerDeck": false,
+  "name": "ECGT_BuffConduit",
+  "displayedName": "Buff Conduit",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 0,
+  "appearanceBehaviour": [],
+  "modPrefix": "ECGT",
+  "texture": "BuffConduit.png"
+}

@@ -1,0 +1,29 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.security" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 5,
+  "bonesCost": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "cardComplexity": "Vanilla",
+  "onePerDeck": false,
+  "name": "ECGT_GemboundRipper",
+  "displayedName": "Gembound Ripper",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 3,
+  "appearanceBehaviour": [],
+  "modPrefix": "ECGT",
+  "texture": "GemboundRipper.png"
+}

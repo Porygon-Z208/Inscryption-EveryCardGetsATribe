@@ -1,0 +1,33 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [
+    "Blue"
+  ],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.gems" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "GemDependant"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "cardComplexity": "Advanced",
+  "onePerDeck": false,
+  "name": "ECGT_GemFiend",
+  "displayedName": "Gem Fiend",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 2,
+  "appearanceBehaviour": [],
+  "modPrefix": "ECGT",
+  "texture": "GemFiend.png"
+}

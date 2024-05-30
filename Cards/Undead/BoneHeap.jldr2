@@ -1,0 +1,30 @@
+{
+  "metaCategories": [
+    "Rare"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.skeletal" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "ActivatedStatsUp"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "cardComplexity": "Advanced",
+  "onePerDeck": false,
+  "name": "ECGT_BoneHeap",
+  "displayedName": "Bone Heap",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 0,
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "modPrefix": "ECGT",
+  "texture": "BoneHeap.png"
+}

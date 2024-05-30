@@ -1,0 +1,29 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.security" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 3,
+  "bonesCost": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "cardComplexity": "Vanilla",
+  "onePerDeck": false,
+  "name": "ECGT_Automaton",
+  "displayedName": "Automaton",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 1,
+  "appearanceBehaviour": [],
+  "modPrefix": "ECGT",
+  "texture": "Automaton.png"
+}

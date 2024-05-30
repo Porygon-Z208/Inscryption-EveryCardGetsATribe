@@ -1,0 +1,32 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.possessed" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "Submerge",
+    "SkeletonStrafe"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 4,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "cardComplexity": "Advanced",
+  "onePerDeck": false,
+  "name": "ECGT_GhostShip",
+  "displayedName": "Ghost Ship",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 0,
+  "appearanceBehaviour": [],
+  "modPrefix": "ECGT",
+  "texture": "GhostShip.png"
+}

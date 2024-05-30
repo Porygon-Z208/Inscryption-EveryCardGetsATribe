@@ -1,0 +1,32 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer",
+    "GBCPack",
+    "GBCPlayable"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "Lily.BOT.feline" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "DrawRabbits"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "tailName": "Tail_Furry",
+  "baseHealth": 2,
+  "bloodCost": 1,
+  "cardComplexity": "Intermediate",
+  "onePerDeck": false,
+  "name": "Warren",
+  "displayedName": "Warren",
+  "description": "The bountiful Warren. It spawns a rabbit when it is played.",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 0,
+  "appearanceBehaviour": []
+}

@@ -1,0 +1,31 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.utility" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "GainBattery"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 2,
+  "bonesCost": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "cardComplexity": "Intermediate",
+  "onePerDeck": false,
+  "name": "ECGT_EnergyBot",
+  "displayedName": "Energy Bot",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 0,
+  "appearanceBehaviour": [],
+  "modPrefix": "ECGT",
+  "texture": "EnergyBot.png"
+}

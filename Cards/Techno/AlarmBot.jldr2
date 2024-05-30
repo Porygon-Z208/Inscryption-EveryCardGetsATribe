@@ -1,0 +1,31 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.security" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "BuffEnemy"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 3,
+  "bonesCost": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "cardComplexity": "Advanced",
+  "onePerDeck": false,
+  "name": "ECGT_AlarmBot",
+  "displayedName": "Alarm Bot",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 2,
+  "appearanceBehaviour": [ "nevernamed.inscryption.sigils.TechPaperCardBackground" ],
+  "modPrefix": "ECGT",
+  "texture": "AlarmBot.png"
+}

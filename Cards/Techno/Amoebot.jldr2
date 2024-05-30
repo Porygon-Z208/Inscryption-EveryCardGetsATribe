@@ -1,0 +1,30 @@
+{
+  "metaCategories": [
+    "Rare"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.utility" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "RandomAbility"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 2,
+  "bonesCost": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "cardComplexity": "Advanced",
+  "onePerDeck": false,
+  "name": "ECGT_Amoebot",
+  "displayedName": "Amoebot",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 1,
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "modPrefix": "ECGT",
+  "texture": "Amoebot.png"
+}

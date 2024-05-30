@@ -1,0 +1,31 @@
+{
+  "metaCategories": [
+    "Rare",
+    "GBCPlayable"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "Lily.BOT.aquatic" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "SubmergeSquid"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "cardComplexity": "Advanced",
+  "onePerDeck": false,
+  "name": "Kraken",
+  "displayedName": "Great Kraken",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 1,
+  "appearanceBehaviour": [
+    "RareCardBackground"
+  ]
+}

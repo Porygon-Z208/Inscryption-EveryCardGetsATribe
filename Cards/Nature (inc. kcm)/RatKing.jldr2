@@ -1,0 +1,31 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer",
+    "GBCPack",
+    "GBCPlayable"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "Lily.BOT.rodent" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "QuadrupleBones"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "baseHealth": 1,
+  "bloodCost": 2,
+  "cardComplexity": "Intermediate",
+  "onePerDeck": false,
+  "name": "RatKing",
+  "displayedName": "Rat King",
+  "description": "The tragic Rat King. When their tangled bodies become corpses you will gain four bones.",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 2,
+  "appearanceBehaviour": []
+}

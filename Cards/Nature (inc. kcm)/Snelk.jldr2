@@ -1,0 +1,36 @@
+{
+  "metaCategories": [
+    "Rare",
+    "GBCPack",
+    "GBCPlayable"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "Hooved", "Lily.BOT.undead" ],
+  "traits": [
+    "KillsSurvivors"
+  ],
+  "specialAbilities": [],
+  "abilities": [
+    "Strafe",
+    "Deathtouch"
+  ],
+  "defaultEvolutionName": "Longer Elk",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 4,
+  "baseHealth": 2,
+  "bloodCost": 0,
+  "cardComplexity": "Intermediate",
+  "onePerDeck": true,
+  "name": "Snelk",
+  "displayedName": "Long Elk",
+  "description": "I have no words for this freak of nature.",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 1,
+  "appearanceBehaviour": [
+    "AddSnelkDecals",
+    "RareCardBackground"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "metaCategories": [
+    "Rare"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.fleshy" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "DrawNewHand"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 5,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "cardComplexity": "Advanced",
+  "onePerDeck": false,
+  "name": "ECGT_DeadHand",
+  "displayedName": "Dead Hand",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 1,
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "modPrefix": "ECGT",
+  "texture": "DeadHand.png"
+}

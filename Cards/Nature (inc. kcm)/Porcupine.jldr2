@@ -1,0 +1,32 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer",
+    "GBCPack",
+    "GBCPlayable"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "Lily.BOT.rodent" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "Sharp"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "tailName": "Tail_Furry",
+  "baseHealth": 2,
+  "bloodCost": 1,
+  "cardComplexity": "Simple",
+  "onePerDeck": false,
+  "name": "Porcupine",
+  "displayedName": "Porcupine",
+  "description": "The ornery Porcupine. Sharp quills await those who dare attack it.",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 1,
+  "appearanceBehaviour": []
+}

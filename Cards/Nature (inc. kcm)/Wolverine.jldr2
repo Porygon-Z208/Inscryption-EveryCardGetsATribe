@@ -1,0 +1,33 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer",
+    "AscensionUnlock",
+    "GBCPack",
+    "GBCPlayable"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "Lily.BOT.feline" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "GainAttackOnKill"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 5,
+  "tailName": "Tail_Furry",
+  "baseHealth": 3,
+  "bloodCost": 0,
+  "cardComplexity": "Advanced",
+  "onePerDeck": false,
+  "name": "Wolverine",
+  "displayedName": "Wolverine",
+  "description": "The relentless Wolverine. Its hunger only grows greater as it kills.",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 1,
+  "appearanceBehaviour": []
+}

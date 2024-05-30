@@ -1,0 +1,31 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.conduits", "tribes.libary.gems" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "ConduitSpawnGems"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 2,
+  "bonesCost": 0,
+  "baseHealth": 2,
+  "bloodCost": 0,
+  "cardComplexity": "Advanced",
+  "onePerDeck": false,
+  "name": "ECGT_GemsConduit",
+  "displayedName": "Gems Conduit",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 0,
+  "appearanceBehaviour": [],
+  "modPrefix": "ECGT",
+  "texture": "GemsConduit.png"
+}

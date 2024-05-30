@@ -1,0 +1,33 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.spectral" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "Flying"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 2,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "cardComplexity": "Simple",
+  "onePerDeck": false,
+  "name": "ECGT_Banshee",
+  "displayedName": "Banshee",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 1,
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { "customEmissionColorHEX": "#FFE256" },
+  "modPrefix": "ECGT",
+  "texture": "Banshee.png",
+  "emissionTexture": "Banshee_Emission.png"
+}

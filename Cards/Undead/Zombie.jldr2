@@ -1,0 +1,31 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.fleshy" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [],
+  "defaultEvolutionName": "",
+  "iceCubeName": "Skeleton",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 2,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "cardComplexity": "Vanilla",
+  "onePerDeck": false,
+  "name": "ECGT_Zombie",
+  "displayedName": "Zombie",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 1,
+  "appearanceBehaviour": [],
+  "modPrefix": "ECGT",
+  "texture": "Zombie.png",
+  "emissionTexture": "Zombie_Emission.png"
+}

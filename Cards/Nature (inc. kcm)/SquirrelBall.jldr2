@@ -1,0 +1,31 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "Squirrel" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "SquirrelStrafe"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "cardComplexity": "Advanced",
+  "onePerDeck": false,
+  "name": "ECGT_SquirrelBall",
+  "displayedName": "Squirrel Ball",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 0,
+  "appearanceBehaviour": [],
+  "modPrefix": "ECGT",
+  "texture": "SquirrelBall.png"
+}

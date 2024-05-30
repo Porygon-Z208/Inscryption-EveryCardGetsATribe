@@ -1,0 +1,31 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer",
+    "GBCPack",
+    "GBCPlayable"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "Mirror",
+  "tribes": [ "Lily.BOT.aquatic", "tribes.libary.cryptid" ],
+  "traits": [],
+  "specialAbilities": [
+    "Mirror"
+  ],
+  "abilities": [],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "cardComplexity": "Advanced",
+  "onePerDeck": false,
+  "name": "SquidMirror",
+  "displayedName": "Mirror Tentacle",
+  "description": "I'm... Actually I'm not sure what that is.",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 0,
+  "appearanceBehaviour": []
+}
