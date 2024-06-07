@@ -28,7 +28,10 @@
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 0,
-  "appearanceBehaviour": [ "TerrainBackground", "nevernamed.inscryption.sigils..RareTerrainBackground" ],
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground" ],
+  "extensionProperties": { 
+    "customBackground": "MagickCardBackground.png" 
+  },
   "modPrefix": "ECGT",
   "texture": "OrlusMox.png"
 }

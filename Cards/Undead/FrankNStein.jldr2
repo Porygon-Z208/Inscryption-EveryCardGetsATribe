@@ -1,0 +1,35 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.fleshy" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [],
+  "defaultEvolutionName": "",
+  "iceCubeName": "Skeleton",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 5,
+  "baseHealth": 2,
+  "bloodCost": 0,
+  "cardComplexity": "Vanilla",
+  "onePerDeck": false,
+  "name": "FrankNStein",
+  "displayedName": "Frank & Stein",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 2,
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "UndeadCardBackground.png" ,
+    "customEmissionColorHEX": "#FFE256"
+  },
+  "modPrefix": "ECGT",
+  "texture": "FrankNStein.png",
+  "emissionTexture": "FrankNStein_Emission.png"
+}

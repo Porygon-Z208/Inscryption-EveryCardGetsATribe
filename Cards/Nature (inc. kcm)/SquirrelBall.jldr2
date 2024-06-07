@@ -27,5 +27,6 @@
   "baseAttack": 0,
   "appearanceBehaviour": [],
   "modPrefix": "ECGT",
-  "texture": "SquirrelBall.png"
+  "texture": "SquirrelBall.png",
+  "emissionTexture": "SquirrelBall_Emission.png"
 }

@@ -23,7 +23,10 @@
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 3,
-  "appearanceBehaviour": [],
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground" ],
   "modPrefix": "ECGT",
-  "texture": "GemboundRipper.png"
+  "texture": "GemboundRipper.png",
+  "extensionProperties": { 
+    "customBackground": "TechnoCardBackground.png" 
+  }
 }

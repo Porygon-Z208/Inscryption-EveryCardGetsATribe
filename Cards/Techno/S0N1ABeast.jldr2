@@ -1,0 +1,36 @@
+{
+  "metaCategories": [],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.security" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "Transformer",
+    "Flying"
+  ],
+  "evolveIntoName": "ECGT_S0N1ABot",
+  "evolveTurns": 1,
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 3,
+  "bonesCost": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "cardComplexity": "Advanced",
+  "onePerDeck": false,
+  "name": "ECGT_S0N1ABeast",
+  "displayedName": "S0N1A",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 2,
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "TechnoCardBackground.png",
+    "customEmissionColorHEX": "#00B2FF"
+  },
+  "modPrefix": "ECGT",
+  "texture": "S0N1ABeast.png",
+  "emissionTexture": "S0N1ABeast_Emission.png"
+}

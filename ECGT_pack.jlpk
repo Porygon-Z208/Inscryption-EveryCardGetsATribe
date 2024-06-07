@@ -1,6 +1,6 @@
 {
   "Title": "Every Card Gets A Tribe",
-  "Description": "[name], [count] cards, f.e. [randomcard], avg. pwrlvl: [powerlevel]",
+  "Description": "[name], [count] cards, f.e. [randomcard], [randomcard], [randomcard], [randomcard], and [randomcard].",
   "ModPrefix": "ECGT",
   "validFor": [ "LeshyPack" ]
 }

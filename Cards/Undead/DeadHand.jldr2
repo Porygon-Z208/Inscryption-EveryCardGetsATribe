@@ -24,7 +24,11 @@
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 1,
-  "appearanceBehaviour": [ "RareCardBackground" ],
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "UndeadCardBackground.png" ,
+    "customEmissionColorHEX": "#FFE256"
+  },
   "modPrefix": "ECGT",
   "texture": "DeadHand.png"
 }

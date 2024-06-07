@@ -1,0 +1,35 @@
+{
+  "metaCategories": [],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.security" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "Transformer"
+  ],
+  "evolveIntoName": "ECGT_GR1ZZBot",
+  "evolveTurns": 1,
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 6,
+  "bonesCost": 0,
+  "baseHealth": 4,
+  "bloodCost": 0,
+  "cardComplexity": "Advanced",
+  "onePerDeck": false,
+  "name": "ECGT_GR1ZZBeast",
+  "displayedName": "GR1ZZ",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 4,
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "TechnoCardBackground.png",
+    "customEmissionColorHEX": "#00B2FF"
+  },
+  "modPrefix": "ECGT",
+  "texture": "GR1ZZBeast.png",
+  "emissionTexture": "GR1ZZBeast_Emission.png"
+}

@@ -21,7 +21,10 @@
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 2,
-  "appearanceBehaviour": [ "RareCardBackground" ],
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground" ],
+  "extensionProperties": { 
+    "customBackground": "TechnoCardBackground.png" 
+  },
   "modPrefix": "ECGT",
   "texture": "CurveHopper.png"
 }

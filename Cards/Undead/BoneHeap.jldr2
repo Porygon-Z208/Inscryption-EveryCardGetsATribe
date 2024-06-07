@@ -24,7 +24,12 @@
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 0,
-  "appearanceBehaviour": [ "RareCardBackground" ],
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "UndeadCardBackground.png" ,
+    "customEmissionColorHEX": "#FFE256"
+  },
   "modPrefix": "ECGT",
-  "texture": "BoneHeap.png"
+  "texture": "BoneHeap.png",
+  "emissionTexture": "BoneHeap_Emission.png"
 }

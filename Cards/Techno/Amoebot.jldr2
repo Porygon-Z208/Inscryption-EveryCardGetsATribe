@@ -1,6 +1,7 @@
 {
   "metaCategories": [
-    "Rare"
+    "ChoiceNode",
+    "TraderOffer"
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
@@ -24,7 +25,12 @@
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 1,
-  "appearanceBehaviour": [ "RareCardBackground" ],
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "TechnoCardBackground.png",
+    "customEmissionColorHEX": "#00B2FF"
+  },
   "modPrefix": "ECGT",
-  "texture": "Amoebot.png"
+  "texture": "Amoebot.png",
+  "emissionTexture": "Amoebot_Emission.png"
 }

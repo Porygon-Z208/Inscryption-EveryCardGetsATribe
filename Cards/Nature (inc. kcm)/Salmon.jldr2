@@ -28,5 +28,6 @@
   "baseAttack": 2,
   "appearanceBehaviour": [],
   "modPrefix": "ECGT",
-  "texture": "Salmon.png"
+  "texture": "Salmon.png",
+  "emissionTexture": "Salmon_Emission.png"
 }

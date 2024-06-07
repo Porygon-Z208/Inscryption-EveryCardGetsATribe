@@ -27,7 +27,10 @@
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 2,
-  "appearanceBehaviour": [],
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground" ],
+  "extensionProperties": { 
+    "customBackground": "MagickCardBackground.png" 
+  },
   "modPrefix": "ECGT",
   "texture": "GemFiend.png"
 }

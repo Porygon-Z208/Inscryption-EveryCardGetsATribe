@@ -5,7 +5,7 @@
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "tribes.libary.conduit" ],
+  "tribes": [ "tribes.libary.conduits" ],
   "traits": [],
   "specialAbilities": [],
   "abilities": [
@@ -25,7 +25,10 @@
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 0,
-  "appearanceBehaviour": [],
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground" ],
   "modPrefix": "ECGT",
-  "texture": "NullConduit.png"
+  "texture": "NullConduit.png",
+  "extensionProperties": { 
+    "customBackground": "TechnoCardBackground.png" 
+  }
 }

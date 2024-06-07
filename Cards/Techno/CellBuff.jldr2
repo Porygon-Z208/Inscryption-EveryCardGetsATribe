@@ -25,7 +25,10 @@
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 1,
-  "appearanceBehaviour": [],
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground" ],
   "modPrefix": "ECGT",
-  "texture": "ToughCell.png"
+  "texture": "ToughCell.png",
+  "extensionProperties": { 
+    "customBackground": "TechnoCardBackground.png" 
+  }
 }

@@ -25,8 +25,11 @@
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 1,
-  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
-  "extensionProperties": { "customEmissionColorHEX": "#FFE256" },
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "UndeadCardBackground.png" ,
+    "customEmissionColorHEX": "#FFE256"
+  },
   "modPrefix": "ECGT",
   "texture": "Banshee.png",
   "emissionTexture": "Banshee_Emission.png"

@@ -25,7 +25,12 @@
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 1,
-  "appearanceBehaviour": [],
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "MagickCardBackground.png",
+    "customEmissionColorHEX": "#CE35FF"
+  },
   "modPrefix": "ECGT",
-  "texture": "Pupil.png"
+  "texture": "Pupil.png",
+  "emissionTexture": "Pupil_Emission.png"
 }

@@ -25,7 +25,10 @@
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 2,
-  "appearanceBehaviour": [ "nevernamed.inscryption.sigils.TechPaperCardBackground" ],
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground" ],
   "modPrefix": "ECGT",
-  "texture": "AlarmBot.png"
+  "texture": "AlarmBot.png",
+  "extensionProperties": { 
+    "customBackground": "TechnoCardBackground.png" 
+  }
 }
