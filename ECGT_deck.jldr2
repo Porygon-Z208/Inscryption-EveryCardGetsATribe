@@ -1,0 +1,40 @@
+{
+  "decks": [
+  {
+    "name": "UndeadDeckFleshy",
+    "iconTexture": "UndeadStarterDeckIcon.png",
+    "cards": [
+      "ECGT_Gravedigger",
+      "ECGT_Zombie",
+      "ECGT_FrankNStein"
+    ]
+  },
+  {
+    "name": "TechnoDeckCheap",
+    "iconTexture": "TechnoStarterDeckIcon.png",
+    "cards": [
+      "ECGT_Automaton",
+      "Shieldbot",
+      "ECGT_Sniper"
+    ]
+  },
+  {
+    "name": "TechnoDeckCaro",
+    "iconTexture": "TechnoStarterDeckIcon.png",
+    "cards": [
+      "ECGT_EnergyBot",
+      "ECGT_CurveHopper",
+      "CloserBot"
+    ]
+  },
+  {
+    "name": "MagickDeckCaro",
+    "iconTexture": "MagickStarterDeckIcon.png",
+    "cards": [
+      "ECGT_Pupil",
+      "ECGT_ForceMage",
+      "ECGT_GemFiend"
+    ]
+  }
+]
+}

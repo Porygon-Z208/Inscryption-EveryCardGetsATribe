@@ -4,5 +4,6 @@ Mod for inscryption adding tribes to every card, including all temples and acts,
 
 # Credits
 
-- Donut: Art (Salmon)
 - Prof.Eggnog: Art (All non-Nature temple-based card backgrounds)
+- Donut: Art (Salmon)
+- Kai: Art (Singular moxes)

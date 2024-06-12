@@ -1,30 +1,26 @@
 {
-  "metaCategories": [
-    "ChoiceNode",
-    "TraderOffer"
-  ],
+  "metaCategories": [],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "tribes.libary.gems" ],
+  "tribes": [],
   "traits": [
     "Terrain",
     "Gem"
   ],
   "specialAbilities": [],
   "abilities": [
-    "GainGemGreen",
     "GainGemOrange"
   ],
   "defaultEvolutionName": "",
   "flipPortraitForStrafe": false,
   "energyCost": 0,
   "bonesCost": 0,
-  "baseHealth": 2,
+  "baseHealth": 1,
   "bloodCost": 0,
-  "cardComplexity": "Intermediate",
+  "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_GoranjsMox",
-  "displayedName": "Goranj's Mox",
+  "name": "ECGT_RubyMox",
+  "displayedName": "Ruby Mox",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
@@ -35,5 +31,6 @@
     "customEmissionColorHEX": "#CE35FF"
   },
   "modPrefix": "ECGT",
-  "texture": "GoranjsMox.png"
+  "texture": "RubyMox.png",
+  "pixelTexture": "RubyMox_Pixel.png"
 }

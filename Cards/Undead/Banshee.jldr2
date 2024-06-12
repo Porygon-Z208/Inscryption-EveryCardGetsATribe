@@ -32,5 +32,6 @@
   },
   "modPrefix": "ECGT",
   "texture": "Banshee.png",
+  "pixelTexture": "Banshee_Pixel.png",
   "emissionTexture": "Banshee_Emission.png"
 }

@@ -1,0 +1,45 @@
+{
+  "metaCategories": [],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [],
+  "traits": [
+    "Terrain",
+    "Gem"
+  ],
+  "specialAbilities": [],
+  "abilities": [
+    "GainGemGreen"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "cardComplexity": "Simple",
+  "onePerDeck": false,
+  "name": "ECGT_EmeraldMox",
+  "displayedName": "Emerald Mox",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 0,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor", "TerrainLayout", "spapi.inscryption.coloredportraits.ColoredPortrait"
+  ],
+  "extensionProperties": {
+    "customBackground": "MagickCardBackground.png",
+    "customEmissionColorHEX": "#CE35FF",
+    "CSDIsSideDeck": "true",
+    "CSDSideDeckType": "Configurable",
+    "CSDNumCards": "12",
+    "CSDNumOptions": "3",
+    "CSDOption1": "ECGT_EmeraldMox",
+    "CSDOption2": "ECGT_RubyMox",
+    "CSDOption3": "ECGT_SapphireMox"
+  },
+  "modPrefix": "ECGT",
+  "texture": "EmeraldMox.png",
+  "pixelTexture": "EmeraldMox_Pixel.png"
+}

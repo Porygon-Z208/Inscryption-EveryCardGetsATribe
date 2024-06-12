@@ -1,0 +1,15 @@
+{
+    "name": "EveryCardGetsATribe",
+    "version_number": "0.1a",
+    "website_url": "https://github.com/Porygon-Z208/Inscryption-EveryCardGetsATribe",
+    "description": "Adds every act-2 and act-3 card to Kaycee's mod, complete with unique backgrounds and tribes for each temple.",
+    "dependencies": [
+      "MADH95Mods-JSONCardLoader-2.5.4",
+      "Nevernamed-Nevernameds_Sigilarium-1.15.0",
+      "The_Unwanted_but_Useful_Libraries-Tribal_Libary-2.0.1",
+      "SpecialAPI-Configurable_Emissions_and_Backgrounds-1.0.0",
+      "TVFLabs-CustomSideDeck-1.2.0",
+      "Lily-Bundle_Of_Totems-1.3.0",
+      "SpecialAPI-ColoredPortraits-1.0.0"
+    ]
+  }

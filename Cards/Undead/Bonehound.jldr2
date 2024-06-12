@@ -32,5 +32,6 @@
   },
   "modPrefix": "ECGT",
   "texture": "Bonehound.png",
+  "pixelTexture": "Bonehound_Pixel.png",
   "emissionTexture": "Bonehound_Emission.png"
 }

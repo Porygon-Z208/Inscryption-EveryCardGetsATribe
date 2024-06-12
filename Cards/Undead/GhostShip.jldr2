@@ -32,5 +32,6 @@
     "customEmissionColorHEX": "#FFE256"
   },
   "modPrefix": "ECGT",
-  "texture": "GhostShip.png"
+  "texture": "GhostShip.png",
+  "pixelTexture": "GhostShip_Pixel.png"
 }

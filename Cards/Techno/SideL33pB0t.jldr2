@@ -1,0 +1,36 @@
+{
+  "metaCategories": [],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [],
+  "traits": [ "Terrain" ],
+  "specialAbilities": [],
+  "abilities": [
+    "Reach"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 1,
+  "bonesCost": 0,
+  "baseHealth": 2,
+  "bloodCost": 0,
+  "cardComplexity": "Simple",
+  "onePerDeck": false,
+  "name": "ECGT_SideL33pB0t",
+  "displayedName": "L33pB0t",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 0,
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor", "TerrainLayout" ],
+  "extensionProperties": { 
+    "customBackground": "TechnoCardBackground.png",
+    "customEmissionColorHEX": "#00B2FF",
+    "CSDIsSideDeck": "true",
+    "CSDSideDeckType": "Basic"
+  },
+  "modPrefix": "ECGT",
+  "texture": "L33PB0T.png",
+  "emissionTexture": "L33PB0T_Emission.png",
+  "pixelTexture": "L33PB0T_Pixel.png"
+}

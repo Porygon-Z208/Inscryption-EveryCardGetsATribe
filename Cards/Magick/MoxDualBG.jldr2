@@ -1,6 +1,7 @@
 {
   "metaCategories": [
-    "Rare"
+    "ChoiceNode",
+    "TraderOffer"
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
@@ -28,9 +29,10 @@
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 0,
-  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground" ],
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor", "TerrainLayout", "spapi.inscryption.coloredportraits.ColoredPortrait" ],
   "extensionProperties": { 
-    "customBackground": "MagickCardBackground.png" 
+    "customBackground": "MagickCardBackground.png",
+    "customEmissionColorHEX": "#CE35FF"
   },
   "modPrefix": "ECGT",
   "texture": "BleenesMox.png"

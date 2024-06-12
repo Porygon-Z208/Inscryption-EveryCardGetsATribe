@@ -32,5 +32,6 @@
   },
   "modPrefix": "ECGT",
   "texture": "Gravedigger.png",
+  "pixelTexture": "Gravedigger_Pixel.png",
   "emissionTexture": "Gravedigger_Emission.png"
 }

@@ -32,5 +32,6 @@
   },
   "modPrefix": "ECGT",
   "texture": "Skeleton.png",
+  "pixelTexture": "Skeleton_Pixel.png",
   "emissionTexture": "Skeleton_Emission.png"
 }

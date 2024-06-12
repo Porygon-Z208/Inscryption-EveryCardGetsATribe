@@ -32,5 +32,6 @@
   },
   "modPrefix": "ECGT",
   "texture": "Revenant.png",
+  "pixelTexture": "Revenant_Pixel.png",
   "emissionTexture": "Revenant_Emission.png"
 }

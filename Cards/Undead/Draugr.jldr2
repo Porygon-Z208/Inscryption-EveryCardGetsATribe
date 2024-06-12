@@ -5,32 +5,36 @@
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "tribes.libary.fleshy" ],
-  "traits": [],
+  "tribes": [],
+  "traits": [
+    "Terrain"
+  ],
   "specialAbilities": [],
-  "abilities": [],
+  "abilities": [
+    "IceCube"
+  ],
   "defaultEvolutionName": "",
-  "iceCubeName": "Skeleton",
+  "iceCubeName": "ECGT_Skeleton",
   "flipPortraitForStrafe": false,
   "energyCost": 0,
-  "bonesCost": 5,
-  "baseHealth": 2,
+  "bonesCost": 1,
+  "baseHealth": 1,
   "bloodCost": 0,
-  "cardComplexity": "Vanilla",
+  "cardComplexity": "Intermediate",
   "onePerDeck": false,
-  "name": "ECGT_FrankNStein",
-  "displayedName": "Frank & Stein",
+  "name": "ECGT_Draugr",
+  "displayedName": "Draugr",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
-  "baseAttack": 2,
+  "baseAttack": 0,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256"
   },
   "modPrefix": "ECGT",
-  "texture": "FrankNStein.png",
-  "pixelTexture": "FrankNStein_Pixel.png",
-  "emissionTexture": "FrankNStein_Emission.png"
+  "texture": "Draugr.png",
+  "pixelTexture": "Draugr_Pixel.png",
+  "emissionTexture": "Draugr_Emission.png"
 }

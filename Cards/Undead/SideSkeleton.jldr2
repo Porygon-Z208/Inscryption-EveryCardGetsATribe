@@ -1,36 +1,36 @@
 {
-  "metaCategories": [
-    "ChoiceNode",
-    "TraderOffer"
-  ],
+  "metaCategories": [],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "tribes.libary.fleshy" ],
+  "tribes": [],
   "traits": [],
   "specialAbilities": [],
-  "abilities": [],
+  "abilities": [
+    "Brittle"
+  ],
   "defaultEvolutionName": "",
-  "iceCubeName": "Skeleton",
   "flipPortraitForStrafe": false,
   "energyCost": 0,
-  "bonesCost": 5,
-  "baseHealth": 2,
+  "bonesCost": 0,
+  "baseHealth": 1,
   "bloodCost": 0,
-  "cardComplexity": "Vanilla",
+  "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_FrankNStein",
-  "displayedName": "Frank & Stein",
+  "name": "ECGT_SideSkeleton",
+  "displayedName": "Skeleton",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
-  "baseAttack": 2,
+  "baseAttack": 1,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
     "customBackground": "UndeadCardBackground.png" ,
-    "customEmissionColorHEX": "#FFE256"
+    "customEmissionColorHEX": "#FFE256",
+    "CSDIsSideDeck": "true",
+    "CSDSideDeckType": "Basic"
   },
   "modPrefix": "ECGT",
-  "texture": "FrankNStein.png",
-  "pixelTexture": "FrankNStein_Pixel.png",
-  "emissionTexture": "FrankNStein_Emission.png"
+  "texture": "Skeleton.png",
+  "pixelTexture": "Skeleton_Pixel.png",
+  "emissionTexture": "Skeleton_Emission.png"
 }

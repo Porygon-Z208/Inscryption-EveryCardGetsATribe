@@ -11,7 +11,8 @@
   "traits": [],
   "specialAbilities": [],
   "abilities": [
-    "PreventAttack"
+    "PreventAttack",
+    "GemDependant"
   ],
   "defaultEvolutionName": "",
   "flipPortraitForStrafe": false,
@@ -27,10 +28,11 @@
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 0,
-  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground" ],
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
-    "customBackground": "MagickCardBackground.png" 
-  },  
+    "customBackground": "MagickCardBackground.png",
+    "customEmissionColorHEX": "#CE35FF"
+  },
   "modPrefix": "ECGT",
   "texture": "ForceMage.png"
 }
