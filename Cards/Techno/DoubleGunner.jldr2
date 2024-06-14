@@ -5,22 +5,22 @@
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "tribes.libary.security", "Canine" ],
+  "tribes": [ "tribes.libary.security" ],
   "traits": [],
   "specialAbilities": [],
   "abilities": [
-    "GuardDog"
+    "SplitStrike"
   ],
   "defaultEvolutionName": "",
   "flipPortraitForStrafe": false,
   "energyCost": 6,
   "bonesCost": 0,
-  "baseHealth": 2,
+  "baseHealth": 1,
   "bloodCost": 0,
-  "cardComplexity": "Advanced",
+  "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_Bolthound",
-  "displayedName": "Bolthound",
+  "name": "ECGT_DoubleGunner",
+  "displayedName": "Double Gunner",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
@@ -31,7 +31,7 @@
     "customEmissionColorHEX": "#00B2FF"
   },
   "modPrefix": "ECGT",
-  "texture": "Bolthound.png",
-  "pixelTexture": "Bolthound_Pixel.png",
-  "emissionTexture": "Bolthound_Emission.png"
+  "texture": "DoubleGunner.png",
+  "pixelTexture": "DoubleGunner_Pixel.png",
+  "emissionTexture": "DoubleGunner_Emission.png"
 }

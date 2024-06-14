@@ -14,7 +14,7 @@
     "iconTexture": "TechnoStarterDeckIcon.png",
     "cards": [
       "ECGT_Automaton",
-      "Shieldbot",
+      "ECGT_Shieldbot",
       "ECGT_Sniper"
     ]
   },
@@ -24,7 +24,7 @@
     "cards": [
       "ECGT_EnergyBot",
       "ECGT_CurveHopper",
-      "CloserBot"
+      "ECGT_DoubleGunner"
     ]
   },
   {

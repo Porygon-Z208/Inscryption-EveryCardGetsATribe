@@ -1,37 +1,39 @@
 {
   "metaCategories": [
-    "ChoiceNode",
-    "TraderOffer"
+    "Rare"
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "tribes.libary.security", "Canine" ],
+  "tribes": [ "tribes.libary.security" ],
   "traits": [],
-  "specialAbilities": [],
+  "specialAbilities": [
+    "Ouroboros"
+  ],
   "abilities": [
-    "GuardDog"
+    "DrawCopyOnDeath"
   ],
   "defaultEvolutionName": "",
   "flipPortraitForStrafe": false,
   "energyCost": 6,
   "bonesCost": 0,
-  "baseHealth": 2,
+  "tailName": "SkinkTail",
+  "baseHealth": 1,
   "bloodCost": 0,
-  "cardComplexity": "Advanced",
-  "onePerDeck": false,
-  "name": "ECGT_Bolthound",
-  "displayedName": "Bolthound",
+  "cardComplexity": "Intermediate",
+  "onePerDeck": true,
+  "name": "ECGT_Ourobot",
+  "displayedName": "Ourobot",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
-  "baseAttack": 2,
+  "baseAttack": 1,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
   "modPrefix": "ECGT",
-  "texture": "Bolthound.png",
-  "pixelTexture": "Bolthound_Pixel.png",
-  "emissionTexture": "Bolthound_Emission.png"
+  "texture": "Ourobot.png",
+  "pixelTexture": "Ourobot_Pixel.png",
+  "emissionTexture": "Ourobot_Emission.png"
 }

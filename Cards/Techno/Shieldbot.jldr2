@@ -5,32 +5,33 @@
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "tribes.libary.scholar" ],
+  "tribes": [ "tribes.libary.security" ],
   "traits": [],
   "specialAbilities": [],
   "abilities": [
-    "GemDependant"
+    "DeathShield"
   ],
   "defaultEvolutionName": "",
   "flipPortraitForStrafe": false,
-  "energyCost": 0,
+  "energyCost": 3,
   "bonesCost": 0,
   "baseHealth": 1,
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_Pupil",
-  "displayedName": "Mage Pupil",
+  "name": "ECGT_Shieldbot",
+  "displayedName": "Shieldbot",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 1,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
-    "customBackground": "MagickCardBackground.png",
-    "customEmissionColorHEX": "#CE35FF"
+    "customBackground": "TechnoCardBackground.png",
+    "customEmissionColorHEX": "#00B2FF"
   },
   "modPrefix": "ECGT",
-  "texture": "Pupil.png",
-  "emissionTexture": "Pupil_Emission.png"
+  "texture": "Shieldbot.png",
+  "pixelTexture": "Shieldbot_Pixel.png",
+  "emissionTexture": "Shieldbot_Emission.png"
 }

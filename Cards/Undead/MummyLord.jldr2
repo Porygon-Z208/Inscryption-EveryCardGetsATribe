@@ -5,33 +5,31 @@
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "tribes.libary.security", "Canine" ],
+  "tribes": [ "tribes.libary.fleshy" ],
   "traits": [],
   "specialAbilities": [],
-  "abilities": [
-    "GuardDog"
-  ],
+  "abilities": [],
   "defaultEvolutionName": "",
   "flipPortraitForStrafe": false,
-  "energyCost": 6,
-  "bonesCost": 0,
-  "baseHealth": 2,
+  "energyCost": 0,
+  "bonesCost": 8,
+  "baseHealth": 3,
   "bloodCost": 0,
-  "cardComplexity": "Advanced",
+  "cardComplexity": "Vanilla",
   "onePerDeck": false,
-  "name": "ECGT_Bolthound",
-  "displayedName": "Bolthound",
+  "name": "ECGT_MummyLord",
+  "displayedName": "Mummy Lord",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
-  "baseAttack": 2,
+  "baseAttack": 3,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
-    "customBackground": "TechnoCardBackground.png",
-    "customEmissionColorHEX": "#00B2FF"
+    "customBackground": "UndeadCardBackground.png" ,
+    "customEmissionColorHEX": "#FFE256"
   },
   "modPrefix": "ECGT",
-  "texture": "Bolthound.png",
-  "pixelTexture": "Bolthound_Pixel.png",
-  "emissionTexture": "Bolthound_Emission.png"
+  "texture": "MummyLord.png",
+  "pixelTexture": "MummyLord_Pixel.png",
+  "emissionTexture": "MummyLord_Emission.png"
 }

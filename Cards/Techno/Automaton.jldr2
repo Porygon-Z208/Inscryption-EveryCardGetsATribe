@@ -23,10 +23,13 @@
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 1,
-  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground" ],
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "TechnoCardBackground.png",
+    "customEmissionColorHEX": "#00B2FF"
+  },
   "modPrefix": "ECGT",
   "texture": "Automaton.png",
-  "extensionProperties": { 
-    "customBackground": "TechnoCardBackground.png" 
-  }
+  "pixelTexture": "Automaton_Pixel.png",
+  "emissionTexture": "Automaton_Emission.png"
 }

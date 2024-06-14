@@ -1,36 +1,4 @@
 {
-  "metaCategories": [
-    "ChoiceNode",
-    "TraderOffer",
-    "GBCPack",
-    "GBCPlayable"
-  ],
-  "gemsCost": [],
-  "specialStatIcon": "None",
   "tribes": [ "Lily.BOT.rodent" ],
-  "traits": [
-    "Blind"
-  ],
-  "specialAbilities": [],
-  "abilities": [
-    "WhackAMole"
-  ],
-  "evolveIntoName": "MoleMan",
-  "evolveTurns": 1,
-  "defaultEvolutionName": "",
-  "flipPortraitForStrafe": false,
-  "energyCost": 0,
-  "bonesCost": 0,
-  "tailName": "Tail_Furry",
-  "baseHealth": 4,
-  "bloodCost": 1,
-  "cardComplexity": "Intermediate",
-  "onePerDeck": false,
-  "name": "Mole",
-  "displayedName": "Mole",
-  "description": "The omnipresent Mole. It burrows and emerges to block any landborn attacker.",
-  "hideAttackAndHealth": false,
-  "temple": "Nature",
-  "baseAttack": 0,
-  "appearanceBehaviour": []
+  "name": "Mole"
 }

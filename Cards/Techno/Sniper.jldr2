@@ -32,5 +32,6 @@
   },
   "modPrefix": "ECGT",
   "texture": "Sniper.png",
+  "pixelTexture": "Sniper_Pixel.png",
   "emissionTexture": "Sniper_Emission.png"
 }

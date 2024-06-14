@@ -32,5 +32,6 @@
   },
   "modPrefix": "ECGT",
   "texture": "SentryDrone.png",
+  "pixelTexture": "SentryDrone_Pixel.png",
   "emissionTexture": "SentryDrone_Emission.png"
 }

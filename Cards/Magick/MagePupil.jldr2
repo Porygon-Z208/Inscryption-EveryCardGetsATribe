@@ -5,33 +5,33 @@
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "tribes.libary.security", "Canine" ],
+  "tribes": [ "tribes.libary.scholar" ],
   "traits": [],
   "specialAbilities": [],
   "abilities": [
-    "GuardDog"
+    "GemDependant"
   ],
   "defaultEvolutionName": "",
   "flipPortraitForStrafe": false,
-  "energyCost": 6,
+  "energyCost": 0,
   "bonesCost": 0,
-  "baseHealth": 2,
+  "baseHealth": 1,
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_Bolthound",
-  "displayedName": "Bolthound",
+  "name": "ECGT_MagePupil",
+  "displayedName": "Mage Pupil",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
-  "baseAttack": 2,
+  "baseAttack": 1,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
-    "customBackground": "TechnoCardBackground.png",
-    "customEmissionColorHEX": "#00B2FF"
+    "customBackground": "MagickCardBackground.png",
+    "customEmissionColorHEX": "#CE35FF"
   },
   "modPrefix": "ECGT",
-  "texture": "Bolthound.png",
-  "pixelTexture": "Bolthound_Pixel.png",
-  "emissionTexture": "Bolthound_Emission.png"
+  "texture": "MagePupil.png",
+  "pixelTexture": "MagePupil_Pixel.png",
+  "emissionTexture": "MagePupil_Emission.png"
 }

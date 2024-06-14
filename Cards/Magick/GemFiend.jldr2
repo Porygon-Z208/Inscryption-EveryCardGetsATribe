@@ -33,5 +33,7 @@
     "customEmissionColorHEX": "#CE35FF"
   },
   "modPrefix": "ECGT",
-  "texture": "GemFiend.png"
+  "texture": "GemFiend.png",
+  "pixelTexture": "GemFiend_Pixel.png",
+  "emissionTexture": "GemFiend_Emission.png"
 }

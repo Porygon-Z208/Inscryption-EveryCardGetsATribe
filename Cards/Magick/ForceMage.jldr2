@@ -34,5 +34,7 @@
     "customEmissionColorHEX": "#CE35FF"
   },
   "modPrefix": "ECGT",
-  "texture": "ForceMage.png"
+  "texture": "ForceMage.png",
+  "pixelTexture": "ForceMage_Pixel.png",
+  "emissionTexture": "ForceMage_Emission.png"
 }

@@ -1,6 +1,7 @@
 {
   "metaCategories": [
-    "Rare"
+    "ChoiceNode",
+    "TraderOffer"
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
