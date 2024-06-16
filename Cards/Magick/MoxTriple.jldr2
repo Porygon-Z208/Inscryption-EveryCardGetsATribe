@@ -1,0 +1,37 @@
+{
+  "name": "ECGT_MagnusMox",
+  "modPrefix": "ECGT",
+  "displayedName": "Magnus Mox",
+  "description": "",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "tribes": [
+    "tribes.libary.gems"
+  ],
+  "traits": [
+    "Gem"
+  ],
+  "specialAbilities": [],
+  "abilities": [
+    "GainGemTriple",
+    "GemDependant"
+  ],
+  "defaultEvolutionName": "Grand Magnus Mox",
+  "flipPortraitForStrafe": false,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+  ],
+  "texture": "MagnusMox.png",
+  "emissionTexture": "MagnusMox_Emission.png",
+  "pixelTexture": "MagnusMox_Pixel.png",
+  "extensionProperties": {
+    "customBackground": "MagickCardBackground.png",
+    "customEmissionColor": "#CE35FF"
+  }
+}

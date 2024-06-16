@@ -11,7 +11,7 @@
   "abilities": [
     "GemDependant"
   ],
-  "defaultEvolutionName": "",
+  "defaultEvolutionName": "Mage Scholar",
   "flipPortraitForStrafe": false,
   "energyCost": 0,
   "bonesCost": 0,

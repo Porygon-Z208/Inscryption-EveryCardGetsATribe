@@ -1,17 +1,17 @@
 {
   "metaCategories": [
-    "GBCPack",
-    "GBCPlayable"
+    "ChoiceNode",
+    "TraderOffer"
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [],
+  "tribes": [ "tribes.libary.fleshy" ],
   "traits": [],
   "specialAbilities": [],
   "abilities": [
     "Evolve"
   ],
-  "evolveIntoName": "Mummy",
+  "evolveIntoName": "ECGT_MummyLord",
   "evolveTurns": 1,
   "defaultEvolutionName": "",
   "flipPortraitForStrafe": false,
@@ -19,13 +19,21 @@
   "bonesCost": 4,
   "baseHealth": 2,
   "bloodCost": 0,
-  "cardComplexity": "Intermediate",
+  "cardComplexity": "Vanilla",
   "onePerDeck": false,
-  "name": "Sarcophagus",
+  "name": "ECGT_Sarcophagus",
   "displayedName": "Sarcophagus",
   "description": "",
   "hideAttackAndHealth": false,
-  "temple": "Undead",
+  "temple": "Nature",
   "baseAttack": 0,
-  "appearanceBehaviour": []
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "UndeadCardBackground.png" ,
+    "customEmissionColorHEX": "#FFE256"
+  },
+  "modPrefix": "ECGT",
+  "texture": "Sarcophagus.png",
+  "pixelTexture": "Sarcophagus_Pixel.png",
+  "emissionTexture": "Sarcophagus_Emission.png"
 }

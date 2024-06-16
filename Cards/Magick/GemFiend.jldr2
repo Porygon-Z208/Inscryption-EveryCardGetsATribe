@@ -13,7 +13,7 @@
   "abilities": [
     "GemDependant"
   ],
-  "defaultEvolutionName": "",
+  "defaultEvolutionName": "Grand Gem Fiend",
   "flipPortraitForStrafe": false,
   "energyCost": 0,
   "bonesCost": 0,

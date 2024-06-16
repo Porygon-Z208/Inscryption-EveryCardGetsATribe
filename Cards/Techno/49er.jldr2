@@ -8,17 +8,19 @@
   "tribes": [ "tribes.libary.security" ],
   "traits": [],
   "specialAbilities": [],
-  "abilities": [],
+  "abilities": [
+    "Strafe"
+  ],
   "defaultEvolutionName": "",
-  "flipPortraitForStrafe": false,
+  "flipPortraitForStrafe": true,
   "energyCost": 2,
   "bonesCost": 0,
   "baseHealth": 1,
   "bloodCost": 0,
-  "cardComplexity": "Vanilla",
+  "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_Automaton",
-  "displayedName": "Automaton",
+  "name": "ECGT_49er",
+  "displayedName": "49er",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
@@ -29,7 +31,7 @@
     "customEmissionColorHEX": "#00B2FF"
   },
   "modPrefix": "ECGT",
-  "texture": "Automaton.png",
-  "pixelTexture": "Automaton_Pixel.png",
-  "emissionTexture": "Automaton_Emission.png"
+  "texture": "49er.png",
+  "pixelTexture": "49er_Pixel.png",
+  "emissionTexture": "49er_Emission.png"
 }

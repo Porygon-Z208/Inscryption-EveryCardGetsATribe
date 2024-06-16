@@ -5,31 +5,34 @@
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "tribes.libary.security" ],
+  "tribes": [ "tribes.libary.skeletal", "tribes.libary.scholar" ],
   "traits": [],
   "specialAbilities": [],
-  "abilities": [],
+  "abilities": [
+    "Brittle",
+    "GemDependant"
+  ],
   "defaultEvolutionName": "",
   "flipPortraitForStrafe": false,
-  "energyCost": 2,
-  "bonesCost": 0,
+  "energyCost": 0,
+  "bonesCost": 2,
   "baseHealth": 1,
   "bloodCost": 0,
-  "cardComplexity": "Vanilla",
+  "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_Automaton",
-  "displayedName": "Automaton",
+  "name": "ECGT_Skelemagus",
+  "displayedName": "Skelemagus",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
-  "baseAttack": 1,
+  "baseAttack": 4,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
-    "customBackground": "TechnoCardBackground.png",
-    "customEmissionColorHEX": "#00B2FF"
+    "customBackground": "UndeadCardBackground.png" ,
+    "customEmissionColorHEX": "#FFE256"
   },
   "modPrefix": "ECGT",
-  "texture": "Automaton.png",
-  "pixelTexture": "Automaton_Pixel.png",
-  "emissionTexture": "Automaton_Emission.png"
+  "texture": "Skelemagus.png",
+  "pixelTexture": "Skelemagus_Pixel.png",
+  "emissionTexture": "Skelemagus_Emission.png"
 }

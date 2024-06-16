@@ -4,7 +4,7 @@ Mod for inscryption adding tribes to every card, including all temples and acts,
 
 # Credits
 
-- Prof.Eggnog: Art (All non-Nature temple-based card backgrounds)
-- Nevernamed: Art (Gamblobot, from P03KCM)
+- Kai: Art (Singular Moxes, Dead Hand, Draugr, Squirrel Ball, Mage Pupil, Mrs. Bomb, Shieldbot (+ missing act2 sprite for starter deck))
+- Prof.Eggnog: Art (All non-Nature temple-based card backgrounds, commissioned)
 - Donut: Art (Salmon)
-- Kai: Art (Singular Moxes, Dead Hand, Draugr, Squirrel Ball, Mage Pupil, Mrs. Bomb)
+- Nevernamed: Art (Gamblobot, from P03KCM)
