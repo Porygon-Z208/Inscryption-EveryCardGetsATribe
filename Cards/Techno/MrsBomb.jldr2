@@ -1,0 +1,36 @@
+{
+  "metaCategories": [
+    "Rare"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "omnitemplecabin.utility" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "BombSpawner"
+  ],
+  "defaultEvolutionName": "",
+  "flipPortraitForStrafe": false,
+  "energyCost": 3,
+  "bonesCost": 0,
+  "baseHealth": 2,
+  "bloodCost": 0,
+  "cardComplexity": "Advanced",
+  "onePerDeck": false,
+  "name": "ECGT_MrsBomb",
+  "displayedName": "Mrs. Bomb",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 1,
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "TechnoCardBackground.png",
+    "customEmissionColorHEX": "#00B2FF"
+  },
+  "modPrefix": "ECGT",
+  "texture": "MrsBomb.png",
+  "pixelTexture": "MrsBomb_Pixel.png",
+  "emissionTexture": "MrsBomb_Emission.png"
+}

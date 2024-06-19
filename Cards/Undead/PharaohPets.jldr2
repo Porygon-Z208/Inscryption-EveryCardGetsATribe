@@ -1,0 +1,39 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "omnitemplecabin.fleshy" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "TripleBlood",
+    "Sacrificial"
+  ],
+  "defaultEvolutionName": "Greater Pharaoh's Pets",
+  "iceCubeName": "Skeleton",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 6,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "cardComplexity": "Vanilla",
+  "onePerDeck": false,
+  "name": "ECGT_PharaohPets",
+  "displayedName": "Pharaoh's Pets",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 0,
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "UndeadCardBackground.png" ,
+    "customEmissionColorHEX": "#FFE256"
+  },
+  "modPrefix": "ECGT",
+  "texture": "PharaohPets.png",
+  "pixelTexture": "PharaohPets_Pixel.png",
+  "emissionTexture": "PharaohPets_Emission.png"
+}

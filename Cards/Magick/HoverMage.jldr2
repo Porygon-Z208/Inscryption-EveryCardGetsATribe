@@ -1,0 +1,39 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [
+    "Blue"
+  ],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.scholar" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "Flying"
+  ],
+  "defaultEvolutionName": "Grand Hover Mage",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "cardComplexity": "Vanilla",
+  "onePerDeck": false,
+  "name": "ECGT_HoverMage",
+  "displayedName": "Hover Mage",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 1,
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "MagickCardBackground.png",
+    "customEmissionColorHEX": "#CE35FF"
+  },
+  "modPrefix": "ECGT",
+  "texture": "HoverMage.png",
+  "pixelTexture": "HoverMage_Pixel.png",
+  "emissionTexture": "HoverMage_Emission.png"
+}

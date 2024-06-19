@@ -1,0 +1,76 @@
+{
+    "tribes": [
+      {
+        "name": "spectral",
+        "guid": "omnitemplecabin",
+        "tribeIcon": "TribeSpectral.png",
+        "appearInTribeChoices": true
+      },
+      {
+        "name": "skeletal",
+        "guid": "omnitemplecabin",
+        "tribeIcon": "TribeSkeletal.png",
+        "appearInTribeChoices": true
+      },
+      {
+        "name": "possessed",
+        "guid": "omnitemplecabin",
+        "tribeIcon": "TribePossessed.png",
+        "appearInTribeChoices": true
+      },
+      {
+        "name": "fleshy",
+        "guid": "omnitemplecabin",
+        "tribeIcon": "TribeFleshy.png",
+        "appearInTribeChoices": true
+      },
+      {
+        "name": "conduits",
+        "guid": "omnitemplecabin",
+        "tribeIcon": "TribeConduits.png",
+        "appearInTribeChoices": true
+      },
+      {
+        "name": "utility",
+        "guid": "omnitemplecabin",
+        "tribeIcon": "TribeUtility.png",
+        "appearInTribeChoices": true
+      },
+      {
+        "name": "security",
+        "guid": "omnitemplecabin",
+        "tribeIcon": "TribeSecurity.png",
+        "appearInTribeChoices": true
+      },
+      {
+        "name": "protectors",
+        "guid": "omnitemplecabin",
+        "tribeIcon": "TribeProtectors.png",
+        "appearInTribeChoices": true
+      },
+      {
+        "name": "scholar",
+        "guid": "omnitemplecabin",
+        "tribeIcon": "TribeScholar.png",
+        "appearInTribeChoices": true
+      },
+      {
+        "name": "guardian",
+        "guid": "omnitemplecabin",
+        "tribeIcon": "TribeGuardian.png",
+        "appearInTribeChoices": true
+      },
+      {
+        "name": "gems",
+        "guid": "omnitemplecabin",
+        "tribeIcon": "TribeGems.png",
+        "appearInTribeChoices": true
+      },
+      {
+        "name": "mystic",
+        "guid": "omnitemplecabin",
+        "tribeIcon": "TribeMystic.png",
+        "appearInTribeChoices": true
+      }
+    ]
+  }

@@ -5,7 +5,7 @@
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "tribes.libary.security", "Canine" ],
+  "tribes": [ "omnitemplecabin.security", "Canine" ],
   "traits": [],
   "specialAbilities": [],
   "abilities": [

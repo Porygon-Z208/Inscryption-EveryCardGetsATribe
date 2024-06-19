@@ -1,0 +1,39 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [
+    "Orange"
+  ],
+  "specialStatIcon": "None",
+  "tribes": [ "tribes.libary.scholar" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "GemDependant"
+  ],
+  "defaultEvolutionName": "Grand Mage Knight",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "baseHealth": 3,
+  "bloodCost": 0,
+  "cardComplexity": "Vanilla",
+  "onePerDeck": false,
+  "name": "ECGT_MageKnight",
+  "displayedName": "Mage Knight",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 1,
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "MagickCardBackground.png",
+    "customEmissionColorHEX": "#CE35FF"
+  },
+  "modPrefix": "ECGT",
+  "texture": "MageKnight.png",
+  "pixelTexture": "MageKnight_Pixel.png",
+  "emissionTexture": "MageKnight_Emission.png"
+}

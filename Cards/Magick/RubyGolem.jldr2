@@ -1,0 +1,41 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [
+    "Orange"
+  ],
+  "specialStatIcon": "None",
+  "tribes": ["tribes.libary.guardian", "tribes.libary.gems"],
+  "traits": [
+    "Terrain"
+  ],
+  "specialAbilities": [],
+  "abilities": [
+    "DropRubyOnDeath"
+  ],
+  "defaultEvolutionName": "Grand Ruby Golem",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "cardComplexity": "Vanilla",
+  "onePerDeck": false,
+  "name": "ECGT_RubyGolem",
+  "displayedName": "Ruby Golem",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 1,
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "MagickCardBackground.png",
+    "customEmissionColorHEX": "#CE35FF"
+  },
+  "modPrefix": "ECGT",
+  "texture": "RubyGolem.png",
+  "pixelTexture": "RubyGolem_Pixel.png",
+  "emissionTexture": "RubyGolem_Emission.png"
+}

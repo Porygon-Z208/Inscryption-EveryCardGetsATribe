@@ -1,0 +1,37 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "omnitemplecabin.utility" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "ExplodeOnDeath"
+  ],
+  "defaultEvolutionName": "Explode Bot Mk2",
+  "flipPortraitForStrafe": false,
+  "energyCost": 2,
+  "bonesCost": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "cardComplexity": "Simple",
+  "onePerDeck": false,
+  "name": "ECGT_ExplodeBot",
+  "displayedName": "Explode Bot",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 1,
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "TechnoCardBackground.png",
+    "customEmissionColorHEX": "#00B2FF"
+  },
+  "modPrefix": "ECGT",
+  "texture": "BombBot.png",
+  "pixelTexture": "BombBot_Pixel.png",
+  "emissionTexture": "BombBot_Emission.png"
+}

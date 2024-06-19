@@ -1,0 +1,37 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [
+    "Orange"
+  ],
+  "specialStatIcon": "None",
+  "tribes": ["tribes.libary.guardian"],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [],
+  "defaultEvolutionName": "Grand Practice Wizard",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "baseHealth": 3,
+  "bloodCost": 0,
+  "cardComplexity": "Vanilla",
+  "onePerDeck": false,
+  "name": "ECGT_PracticeWizard",
+  "displayedName": "Practice Wizard",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 0,
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "MagickCardBackground.png",
+    "customEmissionColorHEX": "#CE35FF"
+  },
+  "modPrefix": "ECGT",
+  "texture": "PracticeWizard.png",
+  "pixelTexture": "PracticeWizard_Pixel.png",
+  "emissionTexture": "PracticeWizard_Emission.png"
+}

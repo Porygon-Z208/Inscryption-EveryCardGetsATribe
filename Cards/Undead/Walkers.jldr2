@@ -1,0 +1,37 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [],
+  "specialStatIcon": "None",
+  "tribes": [ "omnitemplecabin_spectral" ],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "QuadrupleBones"
+  ],
+  "defaultEvolutionName": "The Greater Walkers",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 4,
+  "baseHealth": 2,
+  "bloodCost": 0,
+  "cardComplexity": "Simple",
+  "onePerDeck": false,
+  "name": "ECGT_Walkers",
+  "displayedName": "The Walkers",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 1,
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "UndeadCardBackground.png" ,
+    "customEmissionColorHEX": "#FFE256"
+  },
+  "modPrefix": "ECGT",
+  "texture": "Walkers.png",
+  "pixelTexture": "Walkers_Pixel.png",
+  "emissionTexture": "Walkers_Emission.png"
+}

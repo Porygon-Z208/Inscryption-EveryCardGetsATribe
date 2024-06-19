@@ -2,7 +2,7 @@
     "name": "EveryCardGetsATribe",
     "version_number": "0.1a",
     "website_url": "https://github.com/Porygon-Z208/Inscryption-EveryCardGetsATribe",
-    "description": "Adds every act-2 and act-3 card to Kaycee's mod, complete with unique backgrounds and tribes for each temple.",
+    "description": "Leshy decided to steal a lot more than bones... Adds every act-2 and act-3 card to Kaycee's mod, complete with unique backgrounds and tribes for each temple.",
     "dependencies": [
       "MADH95Mods-JSONCardLoader-2.5.4",
       "Nevernamed-Nevernameds_Sigilarium-1.15.0",

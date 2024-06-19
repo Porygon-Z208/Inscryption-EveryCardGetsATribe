@@ -1,0 +1,39 @@
+{
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "gemsCost": [
+    "Orange"
+  ],
+  "specialStatIcon": "None",
+  "tribes": ["tribes.libary.scholar"],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "BuffGems"
+  ],
+  "defaultEvolutionName": "Grand Orange Mage",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "cardComplexity": "Vanilla",
+  "onePerDeck": false,
+  "name": "ECGT_OrangeMage",
+  "displayedName": "Orange Mage",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 0,
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "MagickCardBackground.png",
+    "customEmissionColorHEX": "#CE35FF"
+  },
+  "modPrefix": "ECGT",
+  "texture": "OrangeMage.png",
+  "pixelTexture": "OrangeMage_Pixel.png",
+  "emissionTexture": "OrangeMage_Emission.png"
+}

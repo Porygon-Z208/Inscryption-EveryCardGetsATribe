@@ -1,36 +1,37 @@
 {
   "metaCategories": [
-    "Rare"
+    "ChoiceNode",
+    "TraderOffer"
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "tribes.libary.utility" ],
+  "tribes": [ "omnitemplecabin.possessed" ],
   "traits": [],
   "specialAbilities": [],
   "abilities": [
-    "BombSpawner"
+    "omnitemplecabin_Bonehorn (Nerfed)"
   ],
   "defaultEvolutionName": "",
   "flipPortraitForStrafe": false,
-  "energyCost": 3,
-  "bonesCost": 0,
-  "baseHealth": 2,
+  "energyCost": 0,
+  "bonesCost": 4,
+  "baseHealth": 1,
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_MrsBomb",
-  "displayedName": "Mrs. Bomb",
+  "name": "ECGT_BonelordHorn",
+  "displayedName": "Bone Lord's Horn",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 1,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
-    "customBackground": "TechnoCardBackground.png",
-    "customEmissionColorHEX": "#00B2FF"
+    "customBackground": "UndeadCardBackground.png" ,
+    "customEmissionColorHEX": "#FFE256"
   },
   "modPrefix": "ECGT",
-  "texture": "MrsBomb.png",
-  "pixelTexture": "MrsBomb_Pixel.png",
-  "emissionTexture": "MrsBomb_Emission.png"
+  "texture": "BonelordHorn.png",
+  "pixelTexture": "BonelordHorn_Pixel.png",
+  "emissionTexture": "BonelordHorn_Emission.png"
 }

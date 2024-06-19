@@ -5,7 +5,7 @@
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "tribes.libary.skeletal", "tribes.libary.scholar" ],
+  "tribes": [ "omnitemplecabin.skeletal", "tribes.libary.scholar" ],
   "traits": [],
   "specialAbilities": [],
   "abilities": [
