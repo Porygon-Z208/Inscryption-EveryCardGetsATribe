@@ -9,7 +9,7 @@
   "traits": [],
   "specialAbilities": [],
   "abilities": [
-    "omnitemplecabin_Bonehorn (Nerfed)"
+    "omnitemplecabin.Bonehorn (Nerfed)"
   ],
   "defaultEvolutionName": "",
   "flipPortraitForStrafe": false,

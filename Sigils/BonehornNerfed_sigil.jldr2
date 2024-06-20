@@ -1,10 +1,10 @@
 {
     "name": "Bonehorn (Nerfed)",
     "GUID": "omnitemplecabin",
-    "description": "Activate: Pay 2 Energy to gain 1 Bone",
+    "description": "Activate: Pay 2 Energy to gain 1 Bone.",
     "texture": "SigilBonehorn.png",
     "powerLevel": 4,
-    "opponentUsable": true,
+    "opponentUsable": false,
     "activationCost": {
       "energyCost": 2
     },

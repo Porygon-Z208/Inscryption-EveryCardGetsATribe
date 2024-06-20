@@ -4,7 +4,7 @@ Mod for inscryption adding tribes to every card, including all temples and acts,
 
 # Credits
 
-- (💛) Kai: Art (All new card portraits not otherwise specified, and all new tribe icons) and idea help
+- (💜) Kai: Art (All new card portraits not otherwise specified, and all new tribe icons) and idea help
 - (Me!) Aubrey: Majority of json, and the Idea
 - (❤️) Ariel: Some json files and idea help
 - (💸) Prof.Eggnog: Art (All non-Nature temple-based card backgrounds, commissioned)
