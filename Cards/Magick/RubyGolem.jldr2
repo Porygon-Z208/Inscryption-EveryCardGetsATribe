@@ -7,7 +7,7 @@
     "Orange"
   ],
   "specialStatIcon": "None",
-  "tribes": ["tribes.libary.guardian", "tribes.libary.gems"],
+  "tribes": ["omnitemplecabin.guardian", "omnitemplecabin.gems"],
   "traits": [
     "Terrain"
   ],

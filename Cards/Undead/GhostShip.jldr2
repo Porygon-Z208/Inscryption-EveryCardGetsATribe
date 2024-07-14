@@ -10,7 +10,7 @@
   "specialAbilities": [],
   "abilities": [
     "Submerge",
-    "omnitemplecabin.Skeleton Crew"
+    "SkeletonStrafe"
   ],
   "defaultEvolutionName": "",
   "flipPortraitForStrafe": false,

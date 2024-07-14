@@ -5,7 +5,7 @@
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "omnitemplecabin.conduits", "tribes.libary.gems" ],
+  "tribes": [ "omnitemplecabin.conduits", "omnitemplecabin.gems" ],
   "traits": [],
   "specialAbilities": [],
   "abilities": [

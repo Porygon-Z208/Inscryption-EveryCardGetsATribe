@@ -11,7 +11,7 @@
   "baseAttack": 0,
   "baseHealth": 3,
   "tribes": [
-    "tribes.libary.gems"
+    "omnitemplecabin.gems"
   ],
   "traits": [
     "Gem"

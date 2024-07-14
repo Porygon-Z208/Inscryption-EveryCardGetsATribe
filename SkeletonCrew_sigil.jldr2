@@ -16,7 +16,8 @@
           "strafe": {
             "direction": "normal",
             "flipSigil": "true"
-          }
+          },
+          "replace": "false"
         }
       ] 
     },
@@ -33,7 +34,8 @@
           "card": {
             "name": "ECGT_Skeleton",
             "retainMods": "true"
-          }
+          },
+          "replace": "false"
         }
       ]
     }
