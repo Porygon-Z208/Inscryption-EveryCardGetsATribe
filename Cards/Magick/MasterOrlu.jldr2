@@ -1,37 +1,40 @@
 {
   "metaCategories": [
-    "ChoiceNode",
-    "TraderOffer"
+    "Rare"
   ],
-  "gemsCost": [],
+  "gemsCost": [
+    "Orange",
+    "Blue"
+  ],
   "specialStatIcon": "None",
-  "tribes": [ "omnitemplecabin.utility" ],
+  "tribes": ["omnitemplecabin.mystic"],
   "traits": [],
   "specialAbilities": [],
   "abilities": [
-    "ExplodeOnDeath"
+    "Flying",
+    "Loot"
   ],
-  "defaultEvolutionName": "Nuke Bot",
+  "defaultEvolutionName": "Grandmaster Orlu",
   "flipPortraitForStrafe": false,
-  "energyCost": 2,
+  "energyCost": 0,
   "bonesCost": 0,
   "baseHealth": 1,
   "bloodCost": 0,
-  "cardComplexity": "Simple",
+  "cardComplexity": "Intermediate",
   "onePerDeck": false,
-  "name": "ECGT_ExplodeBot",
-  "displayedName": "Explode Bot",
+  "name": "ECGT_MasterOrlu",
+  "displayedName": "Master Orlu",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 1,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
-    "customBackground": "TechnoCardBackground.png",
-    "customEmissionColorHEX": "#00B2FF"
+    "customBackground": "MagickCardBackground.png",
+    "customEmissionColorHEX": "#CE35FF"
   },
   "modPrefix": "ECGT",
-  "texture": "ExplodeBot.png",
-  "pixelTexture": "ExplodeBot_Pixel.png",
-  "emissionTexture": "ExplodeBot_Emission.png"
+  "texture": "MasterOrlu.png",
+  "pixelTexture": "MasterOrlu_Pixel.png",
+  "emissionTexture": "MasterOrlu_Emission.png"
 }

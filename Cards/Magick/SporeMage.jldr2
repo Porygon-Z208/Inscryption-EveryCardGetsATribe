@@ -1,38 +1,40 @@
 {
   "metaCategories": [
-    "ChoiceNode",
-    "TraderOffer"
   ],
-  "gemsCost": [],
+  "gemsCost": [
+    "Blue"
+  ],
   "specialStatIcon": "None",
-  "tribes": [ "omnitemplecabin.possessed" ],
-  "traits": [],
+  "tribes": ["omnitemplecabin.mystic"],
+  "traits": [
+    "Fused"
+  ],
   "specialAbilities": [],
   "abilities": [
-    "Submerge",
-    "omnitemplecabin.Skeleton Crew"
+    "GemsDraw",
+    "GemsDraw"
   ],
-  "defaultEvolutionName": "",
+  "defaultEvolutionName": "Grand Blue Sporemage",
   "flipPortraitForStrafe": false,
   "energyCost": 0,
-  "bonesCost": 4,
+  "bonesCost": 0,
   "baseHealth": 1,
   "bloodCost": 0,
-  "cardComplexity": "Advanced",
+  "cardComplexity": "Intermediate",
   "onePerDeck": false,
-  "name": "ECGT_GhostShip",
-  "displayedName": "Ghost Ship",
+  "name": "ECGT_SporeMage",
+  "displayedName": "Blue Sporemage",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 0,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
-    "customBackground": "UndeadCardBackground.png" ,
-    "customEmissionColorHEX": "#FFE256"
+    "customBackground": "MagickCardBackground.png",
+    "customEmissionColorHEX": "#CE35FF"
   },
   "modPrefix": "ECGT",
-  "texture": "GhostShip.png",
-  "pixelTexture": "GhostShip_Pixel.png",
-  "emissionTexture": "GhostShip_Emission.png"
+  "texture": "SporeMage.png",
+  "pixelTexture": "SporeMage_Pixel.png",
+  "emissionTexture": "SporeMage_Emission.png"
 }

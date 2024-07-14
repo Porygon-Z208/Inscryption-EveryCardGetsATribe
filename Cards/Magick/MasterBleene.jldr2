@@ -1,0 +1,39 @@
+{
+  "metaCategories": [
+    "Rare"
+  ],
+  "gemsCost": [
+    "Green",
+    "Blue"
+  ],
+  "specialStatIcon": "None",
+  "tribes": ["omnitemplecabin.mystic"],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "ActivatedSacrificeDrawCards"
+  ],
+  "defaultEvolutionName": "Grandmaster Bleene",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "baseHealth": 4,
+  "bloodCost": 0,
+  "cardComplexity": "Intermediate",
+  "onePerDeck": false,
+  "name": "ECGT_MasterBleene",
+  "displayedName": "Master Bleene",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 0,
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "MagickCardBackground.png",
+    "customEmissionColorHEX": "#CE35FF"
+  },
+  "modPrefix": "ECGT",
+  "texture": "MasterBleene.png",
+  "pixelTexture": "MasterBleene_Pixel.png",
+  "emissionTexture": "MasterBleene_Emission.png"
+}

@@ -1,37 +1,36 @@
 {
   "metaCategories": [
-    "ChoiceNode",
-    "TraderOffer"
+    "Rare"
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "omnitemplecabin.utility" ],
+  "tribes": ["omnitemplecabin.skeletal"],
   "traits": [],
   "specialAbilities": [],
   "abilities": [
-    "ExplodeOnDeath"
+    "ActivatedDrawSkeleton"
   ],
-  "defaultEvolutionName": "Nuke Bot",
+  "defaultEvolutionName": "",
   "flipPortraitForStrafe": false,
-  "energyCost": 2,
+  "energyCost": 0,
   "bonesCost": 0,
-  "baseHealth": 1,
+  "baseHealth": 2,
   "bloodCost": 0,
-  "cardComplexity": "Simple",
+  "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_ExplodeBot",
-  "displayedName": "Explode Bot",
+  "name": "ECGT_TombRobber",
+  "displayedName": "Tomb Robber",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
-  "baseAttack": 1,
+  "baseAttack": 0,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
-    "customBackground": "TechnoCardBackground.png",
-    "customEmissionColorHEX": "#00B2FF"
+    "customBackground": "UndeadCardBackground.png" ,
+    "customEmissionColorHEX": "#FFE256"
   },
   "modPrefix": "ECGT",
-  "texture": "ExplodeBot.png",
-  "pixelTexture": "ExplodeBot_Pixel.png",
-  "emissionTexture": "ExplodeBot_Emission.png"
+  "texture": "TombRobber.png",
+  "pixelTexture": "TombRobber_Pixel.png",
+  "emissionTexture": "TombRobber_Emission.png"
 }

@@ -3,35 +3,37 @@
     "ChoiceNode",
     "TraderOffer"
   ],
-  "gemsCost": [],
+  "gemsCost": [
+    "Green"
+  ],
   "specialStatIcon": "None",
-  "tribes": [ "omnitemplecabin.utility" ],
+  "tribes": ["omnitemplecabin.scholar"],
   "traits": [],
   "specialAbilities": [],
   "abilities": [
-    "ExplodeOnDeath"
+    "ActivatedStatsUpEnergy"
   ],
-  "defaultEvolutionName": "Nuke Bot",
+  "defaultEvolutionName": "Grand Stim Mage",
   "flipPortraitForStrafe": false,
-  "energyCost": 2,
+  "energyCost": 0,
   "bonesCost": 0,
-  "baseHealth": 1,
+  "baseHealth": 2,
   "bloodCost": 0,
-  "cardComplexity": "Simple",
+  "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_ExplodeBot",
-  "displayedName": "Explode Bot",
+  "name": "ECGT_StimMage",
+  "displayedName": "Stim Mage",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
-  "baseAttack": 1,
+  "baseAttack": 0,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
-    "customBackground": "TechnoCardBackground.png",
-    "customEmissionColorHEX": "#00B2FF"
+    "customBackground": "MagickCardBackground.png",
+    "customEmissionColorHEX": "#CE35FF"
   },
   "modPrefix": "ECGT",
-  "texture": "ExplodeBot.png",
-  "pixelTexture": "ExplodeBot_Pixel.png",
-  "emissionTexture": "ExplodeBot_Emission.png"
+  "texture": "StimMage.png",
+  "pixelTexture": "StimMage_Pixel.png",
+  "emissionTexture": "StimMage_Emission.png"
 }

@@ -1,0 +1,41 @@
+{
+  "name": "Skeleton Crew",
+  "GUID": "omnitemplecabin",
+  "description": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a Skeleton in its old space.",
+  "texture": "SigilSkeletonCrew.png",
+  "powerLevel": 3,
+  "opponentUsable": true,
+  "canStack": true,
+  "abilityBehaviour": [
+    {
+      "trigger": {
+        "triggerType": "OnEndOfTurn"
+      },
+      "moveCards": [
+        {
+          "strafe": {
+            "direction": "normal",
+            "flipSigil": "true"
+          }
+        }
+      ] 
+    },
+    {
+      "trigger": {
+        "triggerType": "OnMove"
+      },
+      "placeCards": [
+        {
+          "slot": {
+            "index": "([OldSlot.Index])",
+            "isOpponentSlot": "(![OldSlot.IsPlayerSlot])"
+          },
+          "card": {
+            "name": "ECGT_Skeleton",
+            "retainMods": "true"
+          }
+        }
+      ]
+    }
+  ]
+}

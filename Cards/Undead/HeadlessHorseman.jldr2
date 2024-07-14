@@ -1,38 +1,37 @@
 {
   "metaCategories": [
-    "ChoiceNode",
-    "TraderOffer"
+    "Rare"
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "omnitemplecabin.possessed" ],
+  "tribes": ["omnitemplecabin.spectral"],
   "traits": [],
   "specialAbilities": [],
   "abilities": [
-    "Submerge",
-    "omnitemplecabin.Skeleton Crew"
+    "Flying",
+    "Strafe"
   ],
   "defaultEvolutionName": "",
   "flipPortraitForStrafe": false,
   "energyCost": 0,
-  "bonesCost": 4,
-  "baseHealth": 1,
+  "bonesCost": 13,
+  "baseHealth": 5,
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_GhostShip",
-  "displayedName": "Ghost Ship",
+  "name": "ECGT_HeadlessHorseman",
+  "displayedName": "Headless Horseman",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
-  "baseAttack": 0,
+  "baseAttack": 5,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256"
   },
   "modPrefix": "ECGT",
-  "texture": "GhostShip.png",
-  "pixelTexture": "GhostShip_Pixel.png",
-  "emissionTexture": "GhostShip_Emission.png"
+  "texture": "HeadlessHorseman.png",
+  "pixelTexture": "HeadlessHorseman_Pixel.png",
+  "emissionTexture": "HeadlessHorseman_Emission.png"
 }

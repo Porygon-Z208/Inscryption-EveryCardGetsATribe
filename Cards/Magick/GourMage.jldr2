@@ -3,36 +3,37 @@
     "ChoiceNode",
     "TraderOffer"
   ],
-  "gemsCost": [],
+  "gemsCost": [
+    "Green"
+  ],
   "specialStatIcon": "None",
-  "tribes": [ "omnitemplecabin.possessed" ],
+  "tribes": ["omnitemplecabin.guardian"],
   "traits": [],
   "specialAbilities": [],
   "abilities": [
-    "Submerge",
-    "omnitemplecabin.Skeleton Crew"
+    "ActivatedStatsUp"
   ],
-  "defaultEvolutionName": "",
+  "defaultEvolutionName": "Grand Gourmage",
   "flipPortraitForStrafe": false,
   "energyCost": 0,
-  "bonesCost": 4,
-  "baseHealth": 1,
+  "bonesCost": 0,
+  "baseHealth": 2,
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_GhostShip",
-  "displayedName": "Ghost Ship",
+  "name": "ECGT_GourMage",
+  "displayedName": "Gourmage",
   "description": "",
   "hideAttackAndHealth": false,
-  "temple": "Nature",
+  "temple": "Wizard",
   "baseAttack": 0,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
-    "customBackground": "UndeadCardBackground.png" ,
-    "customEmissionColorHEX": "#FFE256"
+    "customBackground": "MagickCardBackground.png",
+    "customEmissionColorHEX": "#CE35FF"
   },
   "modPrefix": "ECGT",
-  "texture": "GhostShip.png",
-  "pixelTexture": "GhostShip_Pixel.png",
-  "emissionTexture": "GhostShip_Emission.png"
+  "texture": "GourMage.png",
+  "pixelTexture": "GourMage_Pixel.png",
+  "emissionTexture": "GourMage_Emission.png"
 }

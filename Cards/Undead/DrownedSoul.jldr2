@@ -1,37 +1,37 @@
 {
   "metaCategories": [
-    "ChoiceNode",
-    "TraderOffer"
+    "Rare"
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "omnitemplecabin.utility" ],
+  "tribes": ["omnitemplecabin.spectral"],
   "traits": [],
   "specialAbilities": [],
   "abilities": [
-    "ExplodeOnDeath"
+    "Submerge",
+    "Deathtouch"
   ],
-  "defaultEvolutionName": "Nuke Bot",
+  "defaultEvolutionName": "",
   "flipPortraitForStrafe": false,
-  "energyCost": 2,
-  "bonesCost": 0,
+  "energyCost": 0,
+  "bonesCost": 4,
   "baseHealth": 1,
   "bloodCost": 0,
-  "cardComplexity": "Simple",
+  "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_ExplodeBot",
-  "displayedName": "Explode Bot",
+  "name": "ECGT_DrownedSoul",
+  "displayedName": "Drowned Soul",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 1,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
-    "customBackground": "TechnoCardBackground.png",
-    "customEmissionColorHEX": "#00B2FF"
+    "customBackground": "UndeadCardBackground.png" ,
+    "customEmissionColorHEX": "#FFE256"
   },
   "modPrefix": "ECGT",
-  "texture": "ExplodeBot.png",
-  "pixelTexture": "ExplodeBot_Pixel.png",
-  "emissionTexture": "ExplodeBot_Emission.png"
+  "texture": "DrownedSoul.png",
+  "pixelTexture": "DrownedSoul_Pixel.png",
+  "emissionTexture": "DrownedSoul_Emission.png"
 }

@@ -5,13 +5,13 @@
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "omnitemplecabin.utility" ],
+  "tribes": ["omnitemplecabin.utility"],
   "traits": [],
   "specialAbilities": [],
   "abilities": [
-    "ExplodeOnDeath"
+    "TripleBlood"
   ],
-  "defaultEvolutionName": "Nuke Bot",
+  "defaultEvolutionName": "M3atB0t Mk2",
   "flipPortraitForStrafe": false,
   "energyCost": 2,
   "bonesCost": 0,
@@ -19,19 +19,19 @@
   "bloodCost": 0,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_ExplodeBot",
-  "displayedName": "Explode Bot",
+  "name": "ECGT_MeatBot",
+  "displayedName": "M3atB0t",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
-  "baseAttack": 1,
+  "baseAttack": 0,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
   "modPrefix": "ECGT",
-  "texture": "ExplodeBot.png",
-  "pixelTexture": "ExplodeBot_Pixel.png",
-  "emissionTexture": "ExplodeBot_Emission.png"
+  "texture": "MeatBot.png",
+  "pixelTexture": "MeatBot_Pixel.png",
+  "emissionTexture": "MeatBot_Emission.png"
 }

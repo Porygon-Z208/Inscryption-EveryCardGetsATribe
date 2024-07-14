@@ -1,0 +1,39 @@
+{
+  "metaCategories": [
+    "Rare"
+  ],
+  "gemsCost": [
+    "Green",
+    "Orange"
+  ],
+  "specialStatIcon": "None",
+  "tribes": ["omnitemplecabin.guardian"],
+  "traits": [],
+  "specialAbilities": [],
+  "abilities": [
+    "GemDependant"
+  ],
+  "defaultEvolutionName": "Grandmaster Goranj",
+  "flipPortraitForStrafe": false,
+  "energyCost": 0,
+  "bonesCost": 0,
+  "baseHealth": 6,
+  "bloodCost": 0,
+  "cardComplexity": "Intermediate",
+  "onePerDeck": false,
+  "name": "ECGT_MasterGoranj",
+  "displayedName": "Master Goranj",
+  "description": "",
+  "hideAttackAndHealth": false,
+  "temple": "Nature",
+  "baseAttack": 2,
+  "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
+  "extensionProperties": { 
+    "customBackground": "MagickCardBackground.png",
+    "customEmissionColorHEX": "#CE35FF"
+  },
+  "modPrefix": "ECGT",
+  "texture": "MasterGoranj.png",
+  "pixelTexture": "MasterGoranj_Pixel.png",
+  "emissionTexture": "MasterGoranj_Emission.png"
+}

@@ -5,33 +5,33 @@
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "omnitemplecabin.utility" ],
+  "tribes": ["omnitemplecabin.conduits"],
   "traits": [],
   "specialAbilities": [],
   "abilities": [
-    "ExplodeOnDeath"
+    "ConduitFactory"
   ],
-  "defaultEvolutionName": "Nuke Bot",
+  "defaultEvolutionName": "Factory Conduit Mk2",
   "flipPortraitForStrafe": false,
-  "energyCost": 2,
+  "energyCost": 3,
   "bonesCost": 0,
-  "baseHealth": 1,
+  "baseHealth": 2,
   "bloodCost": 0,
-  "cardComplexity": "Simple",
+  "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_ExplodeBot",
-  "displayedName": "Explode Bot",
+  "name": "ECGT_FactoryConduit",
+  "displayedName": "Factory Conduit",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
-  "baseAttack": 1,
+  "baseAttack": 0,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
   "modPrefix": "ECGT",
-  "texture": "ExplodeBot.png",
-  "pixelTexture": "ExplodeBot_Pixel.png",
-  "emissionTexture": "ExplodeBot_Emission.png"
+  "texture": "FactoryConduit.png",
+  "pixelTexture": "FactoryConduit_Pixel.png",
+  "emissionTexture": "FactoryConduit_Emission.png"
 }

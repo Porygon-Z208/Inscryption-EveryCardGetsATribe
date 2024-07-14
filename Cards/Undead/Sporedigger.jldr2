@@ -1,37 +1,38 @@
 {
   "metaCategories": [
-    "ChoiceNode",
-    "TraderOffer"
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "omnitemplecabin.utility" ],
-  "traits": [],
+  "tribes": ["omnitemplecabin.fleshy"],
+  "traits": [
+    "Fused"
+  ],
   "specialAbilities": [],
   "abilities": [
-    "ExplodeOnDeath"
+    "BoneDigger",
+    "BoneDigger"
   ],
-  "defaultEvolutionName": "Nuke Bot",
+  "defaultEvolutionName": "",
   "flipPortraitForStrafe": false,
-  "energyCost": 2,
-  "bonesCost": 0,
-  "baseHealth": 1,
+  "energyCost": 0,
+  "bonesCost": 1,
+  "baseHealth": 3,
   "bloodCost": 0,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_ExplodeBot",
-  "displayedName": "Explode Bot",
+  "name": "ECGT_Sporedigger",
+  "displayedName": "Sporedigger",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
-  "baseAttack": 1,
+  "baseAttack": 0,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
-    "customBackground": "TechnoCardBackground.png",
-    "customEmissionColorHEX": "#00B2FF"
+    "customBackground": "UndeadCardBackground.png" ,
+    "customEmissionColorHEX": "#FFE256"
   },
   "modPrefix": "ECGT",
-  "texture": "ExplodeBot.png",
-  "pixelTexture": "ExplodeBot_Pixel.png",
-  "emissionTexture": "ExplodeBot_Emission.png"
+  "texture": "Sporedigger.png",
+  "pixelTexture": "Sporedigger_Pixel.png",
+  "emissionTexture": "Sporedigger_Emission.png"
 }

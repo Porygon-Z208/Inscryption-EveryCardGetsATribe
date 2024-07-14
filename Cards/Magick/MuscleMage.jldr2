@@ -3,35 +3,37 @@
     "ChoiceNode",
     "TraderOffer"
   ],
-  "gemsCost": [],
+  "gemsCost": [
+    "Green"
+  ],
   "specialStatIcon": "None",
-  "tribes": [ "omnitemplecabin.utility" ],
+  "tribes": ["omnitemplecabin.guardian"],
   "traits": [],
   "specialAbilities": [],
   "abilities": [
-    "ExplodeOnDeath"
+    "StrafePush"
   ],
-  "defaultEvolutionName": "Nuke Bot",
+  "defaultEvolutionName": "Grand Muscle Mage",
   "flipPortraitForStrafe": false,
-  "energyCost": 2,
+  "energyCost": 0,
   "bonesCost": 0,
   "baseHealth": 1,
   "bloodCost": 0,
-  "cardComplexity": "Simple",
+  "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_ExplodeBot",
-  "displayedName": "Explode Bot",
+  "name": "ECGT_MuscleMage",
+  "displayedName": "Muscle Mage",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 1,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
-    "customBackground": "TechnoCardBackground.png",
-    "customEmissionColorHEX": "#00B2FF"
+    "customBackground": "MagickCardBackground.png",
+    "customEmissionColorHEX": "#CE35FF"
   },
   "modPrefix": "ECGT",
-  "texture": "ExplodeBot.png",
-  "pixelTexture": "ExplodeBot_Pixel.png",
-  "emissionTexture": "ExplodeBot_Emission.png"
+  "texture": "MuscleMage.png",
+  "pixelTexture": "MuscleMage_Pixel.png",
+  "emissionTexture": "MuscleMage_Emission.png"
 }
