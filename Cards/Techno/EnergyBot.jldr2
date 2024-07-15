@@ -11,7 +11,7 @@
   "abilities": [
     "GainBattery"
   ],
-  "defaultEvolutionName": "",
+  "defaultEvolutionName": "Energy Bot Mk2",
   "flipPortraitForStrafe": false,
   "energyCost": 2,
   "bonesCost": 0,

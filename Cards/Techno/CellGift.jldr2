@@ -11,7 +11,7 @@
   "abilities": [
     "CellDrawRandomCardOnDeath"
   ],
-  "defaultEvolutionName": "",
+  "defaultEvolutionName": "Kind Cell Mk2",
   "flipPortraitForStrafe": false,
   "energyCost": 2,
   "bonesCost": 0,

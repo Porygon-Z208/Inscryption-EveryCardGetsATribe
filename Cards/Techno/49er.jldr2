@@ -11,7 +11,7 @@
   "abilities": [
     "Strafe"
   ],
-  "defaultEvolutionName": "",
+  "defaultEvolutionName": "50er",
   "flipPortraitForStrafe": true,
   "energyCost": 2,
   "bonesCost": 0,

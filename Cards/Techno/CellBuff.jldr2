@@ -11,7 +11,7 @@
   "abilities": [
     "CellBuffSelf"
   ],
-  "defaultEvolutionName": "",
+  "defaultEvolutionName": "Tougher Cell",
   "flipPortraitForStrafe": false,
   "energyCost": 3,
   "bonesCost": 0,

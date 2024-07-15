@@ -11,7 +11,7 @@
   "abilities": [
     "RandomAbility"
   ],
-  "defaultEvolutionName": "",
+  "defaultEvolutionName": "Amoebot Mk2",
   "flipPortraitForStrafe": false,
   "energyCost": 2,
   "bonesCost": 0,

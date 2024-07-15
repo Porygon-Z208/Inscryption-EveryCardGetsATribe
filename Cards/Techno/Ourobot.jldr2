@@ -12,7 +12,7 @@
   "abilities": [
     "DrawCopyOnDeath"
   ],
-  "defaultEvolutionName": "",
+  "defaultEvolutionName": "Ourobot Mk2",
   "flipPortraitForStrafe": false,
   "energyCost": 6,
   "bonesCost": 0,

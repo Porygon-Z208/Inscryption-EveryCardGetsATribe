@@ -7,7 +7,7 @@
     "Blue"
   ],
   "specialStatIcon": "None",
-  "tribes": [ "omnitemplecabin.guardian" ],
+  "tribes": [ "omnitemplecabin.guardian", "omnitemplecabin.mystic" ],
   "traits": [],
   "specialAbilities": [],
   "abilities": [

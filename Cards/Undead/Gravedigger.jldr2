@@ -28,7 +28,8 @@
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
     "customBackground": "UndeadCardBackground.png" ,
-    "customEmissionColorHEX": "#FFE256"
+    "customEmissionColorHEX": "#FFE256",
+    "MycoMerger": "ECGT_Gravedigger:ECGT_Sporedigger"
   },
   "modPrefix": "ECGT",
   "texture": "Gravedigger.png",

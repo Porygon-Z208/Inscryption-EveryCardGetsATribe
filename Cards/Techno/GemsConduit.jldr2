@@ -11,7 +11,7 @@
   "abilities": [
     "ConduitSpawnGems"
   ],
-  "defaultEvolutionName": "",
+  "defaultEvolutionName": "Gems Conduit Mk2",
   "flipPortraitForStrafe": false,
   "energyCost": 2,
   "bonesCost": 0,

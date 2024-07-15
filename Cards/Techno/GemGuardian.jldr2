@@ -9,9 +9,9 @@
   "traits": [],
   "specialAbilities": [],
   "abilities": [
-    "ExplodeGems"
+    "ShieldGems"
   ],
-  "defaultEvolutionName": "",
+  "defaultEvolutionName": "Gem Guardian Mk2",
   "flipPortraitForStrafe": false,
   "energyCost": 3,
   "bonesCost": 0,
@@ -19,15 +19,15 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_GemDetonator",
-  "displayedName": "Gem Detonator",
+  "name": "ECGT_GemGuardian",
+  "displayedName": "Gem Guardian",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 1,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground" ],
   "modPrefix": "ECGT",
-  "texture": "GemDetonator.png",
+  "texture": "GemGuardian.png",
   "extensionProperties": { 
     "customBackground": "TechnoCardBackground.png" 
   }

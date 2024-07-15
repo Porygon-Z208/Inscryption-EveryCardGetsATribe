@@ -11,7 +11,7 @@
   "abilities": [
     "Sentry"
   ],
-  "defaultEvolutionName": "",
+  "defaultEvolutionName": "Sentry Drone Mk2",
   "flipPortraitForStrafe": false,
   "energyCost": 1,
   "bonesCost": 0,
@@ -28,7 +28,8 @@
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
     "customBackground": "TechnoCardBackground.png",
-    "customEmissionColorHEX": "#00B2FF"
+    "customEmissionColorHEX": "#00B2FF",
+    "MycoMerger": "ECGT_SentryDrone:ECGT_SporeDrone"
   },
   "modPrefix": "ECGT",
   "texture": "SentryDrone.png",

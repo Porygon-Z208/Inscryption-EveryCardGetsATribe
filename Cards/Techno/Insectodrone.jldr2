@@ -11,7 +11,7 @@
   "abilities": [
     "Flying"
   ],
-  "defaultEvolutionName": "",
+  "defaultEvolutionName": "Insectodrone Mk2",
   "flipPortraitForStrafe": false,
   "energyCost": 3,
   "bonesCost": 0,

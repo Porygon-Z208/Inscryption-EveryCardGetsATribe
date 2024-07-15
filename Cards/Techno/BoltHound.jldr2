@@ -5,13 +5,13 @@
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "omnitemplecabin.security", "Canine" ],
+  "tribes": [ "omnitemplecabin.protectors", "Canine" ],
   "traits": [],
   "specialAbilities": [],
   "abilities": [
     "GuardDog"
   ],
-  "defaultEvolutionName": "",
+  "defaultEvolutionName": "Bolthound Mk2",
   "flipPortraitForStrafe": false,
   "energyCost": 6,
   "bonesCost": 0,

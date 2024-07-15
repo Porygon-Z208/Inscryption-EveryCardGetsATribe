@@ -10,7 +10,7 @@
   "abilities": [
     "BombSpawner"
   ],
-  "defaultEvolutionName": "",
+  "defaultEvolutionName": "Mrs. Bomb Mk2",
   "flipPortraitForStrafe": false,
   "energyCost": 3,
   "bonesCost": 0,

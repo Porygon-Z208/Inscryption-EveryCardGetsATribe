@@ -10,7 +10,7 @@
   "abilities": [
     "ActivatedRandomPowerEnergy"
   ],
-  "defaultEvolutionName": "",
+  "defaultEvolutionName": "Gamblobot Mk2",
   "flipPortraitForStrafe": false,
   "energyCost": 3,
   "bonesCost": 0,

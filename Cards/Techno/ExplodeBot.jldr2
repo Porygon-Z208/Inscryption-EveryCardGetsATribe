@@ -11,7 +11,7 @@
   "abilities": [
     "ExplodeOnDeath"
   ],
-  "defaultEvolutionName": "Nuke Bot",
+  "defaultEvolutionName": "Explodier Bot",
   "flipPortraitForStrafe": false,
   "energyCost": 2,
   "bonesCost": 0,

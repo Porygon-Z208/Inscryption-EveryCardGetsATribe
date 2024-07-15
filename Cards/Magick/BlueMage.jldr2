@@ -7,7 +7,7 @@
     "Blue"
   ],
   "specialStatIcon": "None",
-  "tribes": [ "omnitemplecabin.scholar" ],
+  "tribes": [ "omnitemplecabin.mystic" ],
   "traits": [],
   "specialAbilities": [],
   "abilities": [
@@ -30,7 +30,8 @@
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
     "customBackground": "MagickCardBackground.png",
-    "customEmissionColorHEX": "#CE35FF"
+    "customEmissionColorHEX": "#CE35FF",
+    "MycoMerger": "ECGT_BlueMage:ECGT_SporeMage,ECGT_OrangeMage:ECGT_MasterOrlu,ECGT_GreenMage:ECGT_MasterBleene"
   },
   "modPrefix": "ECGT",
   "texture": "BlueMage.png",

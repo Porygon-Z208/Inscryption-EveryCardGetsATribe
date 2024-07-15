@@ -1,37 +1,38 @@
 {
   "metaCategories": [
-    "ChoiceNode",
-    "TraderOffer"
   ],
   "gemsCost": [],
   "specialStatIcon": "None",
-  "tribes": [ "omnitemplecabin.security" ],
-  "traits": [],
+  "tribes": ["omnitemplecabin.security"],
+  "traits": [
+    "Fused"
+  ],
   "specialAbilities": [],
   "abilities": [
-    "SplitStrike"
+    "Sentry",
+    "Sentry"
   ],
-  "defaultEvolutionName": "Double Gunner Mk2",
+  "defaultEvolutionName": "Sentry Spore Mk2",
   "flipPortraitForStrafe": false,
-  "energyCost": 6,
+  "energyCost": 1,
   "bonesCost": 0,
   "baseHealth": 1,
   "bloodCost": 0,
-  "cardComplexity": "Simple",
+  "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_DoubleGunner",
-  "displayedName": "Double Gunner",
+  "name": "ECGT_SentrySpore",
+  "displayedName": "Sentry Spore",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
-  "baseAttack": 2,
+  "baseAttack": 0,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
   "modPrefix": "ECGT",
-  "texture": "DoubleGunner.png",
-  "pixelTexture": "DoubleGunner_Pixel.png",
-  "emissionTexture": "DoubleGunner_Emission.png"
+  "texture": "SentrySpore.png",
+  "pixelTexture": "SentrySpore_Pixel.png",
+  "emissionTexture": "SentrySpore_Emission.png"
 }
