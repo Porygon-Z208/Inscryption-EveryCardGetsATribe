@@ -29,7 +29,7 @@
   "extensionProperties": { 
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF",
-    "MycoMerger": "ECGT_SentryDrone:ECGT_SporeDrone"
+    "MycoMerger": "ECGT_SentryDrone:ECGT_SentrySpore"
   },
   "modPrefix": "ECGT",
   "texture": "SentryDrone.png",
