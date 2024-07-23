@@ -7,15 +7,13 @@
   "specialStatIcon": "None",
   "tribes": ["omnitemplecabin.possessed"],
   "traits": [],
-  "specialAbilities": [
-    "BrokenCoinRight"
-  ],
+  "specialAbilities": [],
   "abilities": [
     "QuadrupleBones"
   ],
-  "evolveIntoName": "Mummy",
+  "evolveIntoName": "",
   "evolveTurns": 1,
-  "defaultEvolutionName": "",
+  "defaultEvolutionName": "Awakened Obol Right",
   "flipPortraitForStrafe": false,
   "energyCost": 0,
   "bonesCost": 3,
@@ -23,7 +21,7 @@
   "bloodCost": 0,
   "cardComplexity": "Intermediate",
   "onePerDeck": false,
-  "name": "ECGT_ObolRight",
+  "name": "ECGT_BrokenObolRight",
   "displayedName": "Broken Obol",
   "description": "",
   "hideAttackAndHealth": false,
@@ -35,7 +33,7 @@
     "customEmissionColorHEX": "#FFE256"
   },
   "modPrefix": "ECGT",
-  "texture": "ObolRight.png",
-  "pixelTexture": "ObolRight_Pixel.png",
-  "emissionTexture": "ObolRight_Emission.png"
+  "texture": "BrokenObolRight.png",
+  "pixelTexture": "BrokenObolRight_Pixel.png",
+  "emissionTexture": "BrokenObolRight_Emission.png"
 }

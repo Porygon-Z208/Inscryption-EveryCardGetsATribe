@@ -28,7 +28,8 @@
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
     "customBackground": "MagickCardBackground.png",
-    "customEmissionColorHEX": "#CE35FF"
+    "customEmissionColorHEX": "#CE35FF",
+    "PrismCost": 1
   },
   "modPrefix": "ECGT",
   "texture": "MagePupil.png",

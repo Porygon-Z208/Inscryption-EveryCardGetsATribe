@@ -1,3 +1,7 @@
+# v0.0.3 - Hotfix
+- Mage Pupil costs 1 Prism (see [Cost Utilities](https://thunderstore.io/c/inscryption/p/Arackulele/Cost_Utilities/))
+- Every card has their proper, unique evolution names per temple (or per card in specific cases)
+- Added a new dependancy (not the above, but 2 including it)
 # v0.0.2
 - Fixed Bone Lord's Horn and Ghost Ship custom sigils
 - Added many more portraits I forgot
