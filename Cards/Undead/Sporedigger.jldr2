@@ -20,7 +20,7 @@
   "bloodCost": 0,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_Sporedigger",
+  "name": "OTC_U_Sporedigger",
   "displayedName": "Sporedigger",
   "description": "",
   "hideAttackAndHealth": false,
@@ -31,7 +31,7 @@
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "Sporedigger.png",
   "pixelTexture": "Sporedigger_Pixel.png",
   "emissionTexture": "Sporedigger_Emission.png"

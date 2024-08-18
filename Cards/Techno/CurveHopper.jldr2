@@ -15,7 +15,7 @@
   "baseHealth": 3,
   "bloodCost": 0,
   "onePerDeck": false,
-  "name": "ECGT_CurveHopper",
+  "name": "OTC_T_CurveHopper",
   "displayedName": "Curve Hopper",
   "description": "",
   "hideAttackAndHealth": false,
@@ -26,7 +26,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "CurveHopper.png",
   "pixelTexture": "CurveHopper_Pixel.png",
   "emissionTexture": "CurveHopper_Emission.png"

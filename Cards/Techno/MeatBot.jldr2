@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_MeatBot",
+  "name": "OTC_T_MeatBot",
   "displayedName": "M3atB0t",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "MeatBot.png",
   "pixelTexture": "MeatBot_Pixel.png",
   "emissionTexture": "MeatBot_Emission.png"

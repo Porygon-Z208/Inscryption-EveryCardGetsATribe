@@ -16,7 +16,7 @@
   "bloodCost": 0,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_SideSkeleton",
+  "name": "OTC_U_SideSkeleton",
   "displayedName": "Skeleton",
   "description": "",
   "hideAttackAndHealth": false,
@@ -29,7 +29,7 @@
     "CSDIsSideDeck": "true",
     "CSDSideDeckType": "Basic"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "Skeleton.png",
   "pixelTexture": "Skeleton_Pixel.png",
   "emissionTexture": "Skeleton_Emission.png"

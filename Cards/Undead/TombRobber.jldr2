@@ -18,7 +18,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_TombRobber",
+  "name": "OTC_U_TombRobber",
   "displayedName": "Tomb Robber",
   "description": "",
   "hideAttackAndHealth": false,
@@ -29,7 +29,7 @@
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "TombRobber.png",
   "pixelTexture": "TombRobber_Pixel.png",
   "emissionTexture": "TombRobber_Emission.png"

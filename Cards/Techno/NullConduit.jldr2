@@ -19,14 +19,14 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_NullConduit",
+  "name": "OTC_T_NullConduit",
   "displayedName": "Null Conduit",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 0,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground" ],
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "NullConduit.png",
   "extensionProperties": { 
     "customBackground": "TechnoCardBackground.png" 

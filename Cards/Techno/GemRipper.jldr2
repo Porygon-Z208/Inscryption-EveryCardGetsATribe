@@ -17,14 +17,14 @@
   "bloodCost": 0,
   "cardComplexity": "Vanilla",
   "onePerDeck": false,
-  "name": "ECGT_GemboundRipper",
+  "name": "OTC_T_GemboundRipper",
   "displayedName": "Gembound Ripper",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 3,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground" ],
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "GemboundRipper.png",
   "extensionProperties": { 
     "customBackground": "TechnoCardBackground.png" 

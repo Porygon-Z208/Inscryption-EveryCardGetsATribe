@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_ExplodeBot",
+  "name": "OTC_T_ExplodeBot",
   "displayedName": "Explode Bot",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "ExplodeBot.png",
   "pixelTexture": "ExplodeBot_Pixel.png",
   "emissionTexture": "ExplodeBot_Emission.png"

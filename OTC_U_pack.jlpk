@@ -1,0 +1,6 @@
+{
+  "Title": "Undead - Omni Temple Cabin",
+  "Description": "[name], [count] cards, f.e. [randomcard], [randomcard], and [randomcard].",
+  "ModPrefix": "OTC_U",
+  "validFor": [ "LeshyPack", "P03Pack", "MagnificusPack", "GrimoraPack" ]
+}

@@ -16,7 +16,7 @@
   "bloodCost": 0,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_SideL33pB0t",
+  "name": "OTC_T_SideL33pB0t",
   "displayedName": "L33pB0t",
   "description": "",
   "hideAttackAndHealth": false,
@@ -29,7 +29,7 @@
     "CSDIsSideDeck": "true",
     "CSDSideDeckType": "Basic"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "L33PB0T.png",
   "emissionTexture": "L33PB0T_Emission.png",
   "pixelTexture": "L33PB0T_Pixel.png"

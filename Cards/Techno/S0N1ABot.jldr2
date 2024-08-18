@@ -11,7 +11,7 @@
   "abilities": [
     "Transformer"
   ],
-  "evolveIntoName": "ECGT_S0N1ABeast",
+  "evolveIntoName": "OTC_T_S0N1ABeast",
   "evolveTurns": 1,
   "defaultEvolutionName": "S1N2A",
   "flipPortraitForStrafe": false,
@@ -21,7 +21,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_S0N1ABot",
+  "name": "OTC_T_S0N1ABot",
   "displayedName": "S0N1A",
   "description": "",
   "hideAttackAndHealth": false,
@@ -32,7 +32,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "S0N1ABot.png",
   "emissionTexture": "S0N1ABot_Emission.png"
 }

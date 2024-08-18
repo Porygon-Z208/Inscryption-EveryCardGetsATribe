@@ -17,7 +17,7 @@
   "bloodCost": 0,
   "cardComplexity": "Vanilla",
   "onePerDeck": false,
-  "name": "ECGT_MummyLord",
+  "name": "OTC_U_MummyLord",
   "displayedName": "Mummy Lord",
   "description": "",
   "hideAttackAndHealth": false,
@@ -28,7 +28,7 @@
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "MummyLord.png",
   "pixelTexture": "MummyLord_Pixel.png",
   "emissionTexture": "MummyLord_Emission.png"

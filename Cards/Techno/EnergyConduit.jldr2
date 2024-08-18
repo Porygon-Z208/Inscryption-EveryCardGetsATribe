@@ -18,7 +18,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_EnergyConduit",
+  "name": "OTC_T_EnergyConduit",
   "displayedName": "Energy Conduit",
   "description": "",
   "hideAttackAndHealth": false,
@@ -29,7 +29,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "EnergyConduit.png",
   "pixelTexture": "EnergyConduit_Pixel.png",
   "emissionTexture": "EnergyConduit_Emission.png"

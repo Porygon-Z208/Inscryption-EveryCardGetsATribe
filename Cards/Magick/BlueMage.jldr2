@@ -21,7 +21,7 @@
   "bloodCost": 0,
   "cardComplexity": "Vanilla",
   "onePerDeck": false,
-  "name": "ECGT_BlueMage",
+  "name": "OTC_M_BlueMage",
   "displayedName": "Blue Mage",
   "description": "",
   "hideAttackAndHealth": false,
@@ -31,9 +31,9 @@
   "extensionProperties": { 
     "customBackground": "MagickCardBackground.png",
     "customEmissionColorHEX": "#CE35FF",
-    "MycoMerger": "ECGT_BlueMage:ECGT_SporeMage,ECGT_OrangeMage:ECGT_MasterOrlu,ECGT_GreenMage:ECGT_MasterBleene"
+    "MycoMerger": "OTC_M_BlueMage:OTC_M_SporeMage,OTC_M_OrangeMage:OTC_M_MasterOrlu,OTC_M_GreenMage:OTC_M_MasterBleene"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_M",
   "texture": "BlueMage.png",
   "pixelTexture": "BlueMage_Pixel.png",
   "emissionTexture": "BlueMage_Emission.png"

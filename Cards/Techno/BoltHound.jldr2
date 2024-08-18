@@ -15,11 +15,11 @@
   "flipPortraitForStrafe": false,
   "energyCost": 6,
   "bonesCost": 0,
-  "baseHealth": 2,
+  "baseHealth": 3,
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_Bolthound",
+  "name": "OTC_T_Bolthound",
   "displayedName": "Bolthound",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "Bolthound.png",
   "pixelTexture": "Bolthound_Pixel.png",
   "emissionTexture": "Bolthound_Emission.png"

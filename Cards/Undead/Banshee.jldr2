@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_Banshee",
+  "name": "OTC_U_Banshee",
   "displayedName": "Banshee",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "Banshee.png",
   "pixelTexture": "Banshee_Pixel.png",
   "emissionTexture": "Banshee_Emission.png"

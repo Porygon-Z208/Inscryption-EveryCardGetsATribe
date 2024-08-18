@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_BonelordHorn",
+  "name": "OTC_U_BonelordHorn",
   "displayedName": "Bone Lord's Horn",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "BonelordHorn.png",
   "pixelTexture": "BonelordHorn_Pixel.png",
   "emissionTexture": "BonelordHorn_Emission.png"

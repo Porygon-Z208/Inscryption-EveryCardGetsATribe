@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_Skeleton",
+  "name": "OTC_U_Skeleton",
   "displayedName": "Skeleton",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "Skeleton.png",
   "pixelTexture": "Skeleton_Pixel.png",
   "emissionTexture": "Skeleton_Emission.png"

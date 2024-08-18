@@ -14,12 +14,12 @@
   "defaultEvolutionName": "Awakened Dead Hand",
   "flipPortraitForStrafe": false,
   "energyCost": 0,
-  "bonesCost": 5,
+  "bonesCost": 3,
   "baseHealth": 1,
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_DeadHand",
+  "name": "OTC_U_DeadHand",
   "displayedName": "Dead Hand",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,6 +30,6 @@
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "DeadHand.png"
 }

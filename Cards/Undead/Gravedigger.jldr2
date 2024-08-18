@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_Gravedigger",
+  "name": "OTC_U_Gravedigger",
   "displayedName": "Gravedigger",
   "description": "",
   "hideAttackAndHealth": false,
@@ -29,9 +29,9 @@
   "extensionProperties": { 
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256",
-    "MycoMerger": "ECGT_Gravedigger:ECGT_Sporedigger"
+    "MycoMerger": "OTC_U_Gravedigger:OTC_U_Sporedigger"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "Gravedigger.png",
   "pixelTexture": "Gravedigger_Pixel.png",
   "emissionTexture": "Gravedigger_Emission.png"

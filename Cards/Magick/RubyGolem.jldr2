@@ -23,7 +23,7 @@
   "bloodCost": 0,
   "cardComplexity": "Vanilla",
   "onePerDeck": false,
-  "name": "ECGT_RubyGolem",
+  "name": "OTC_M_RubyGolem",
   "displayedName": "Ruby Golem",
   "description": "",
   "hideAttackAndHealth": false,
@@ -34,7 +34,7 @@
     "customBackground": "MagickCardBackground.png",
     "customEmissionColorHEX": "#CE35FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_M",
   "texture": "RubyGolem.png",
   "pixelTexture": "RubyGolem_Pixel.png",
   "emissionTexture": "RubyGolem_Emission.png"

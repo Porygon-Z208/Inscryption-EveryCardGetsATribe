@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_HeadlessHorseman",
+  "name": "OTC_U_HeadlessHorseman",
   "displayedName": "Headless Horseman",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "HeadlessHorseman.png",
   "pixelTexture": "HeadlessHorseman_Pixel.png",
   "emissionTexture": "HeadlessHorseman_Emission.png"

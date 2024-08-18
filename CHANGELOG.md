@@ -1,3 +1,11 @@
+# v0.0.4 - Balance
+- Split packs by temple
+- Buffed Bolthound (Stats; 2/2 -> 2/3)
+- Buffed Bonehound (Cost; 7 Bones -> 6 Bones)
+- Buffed Dead Hand (Cost; 5 Bones -> 3 Bones)
+- Buffed Obol Pieces (Costs; 3 Bones -> 2 Bones)
+- Added Ancient Obol (Stats; 1/3. Sigils; Bone King, Sharp Quills. Cost; 2 Bones)
+ - Can ONLY be gotten by merging a left and right obol piece at the mycologist, with [MycoMerger](https://thunderstore.io/c/inscryption/p/RykeDaxter/MycoMerger/) installed.
 # v0.0.3 - Hotfix
 - Mage Pupil costs 1 Prism (see [Cost Utilities](https://thunderstore.io/c/inscryption/p/Arackulele/Cost_Utilities/))
 - Every card has their proper, unique evolution names per temple (or per card in specific cases)

@@ -19,14 +19,14 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_GemsConduit",
+  "name": "OTC_T_GemsConduit",
   "displayedName": "Gems Conduit",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 0,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground" ],
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "GemsConduit.png",
   "extensionProperties": { 
     "customBackground": "TechnoCardBackground.png" 

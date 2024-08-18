@@ -19,14 +19,14 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_ToughCell",
+  "name": "OTC_T_ToughCell",
   "displayedName": "Tough Cell",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 1,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground" ],
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "ToughCell.png",
   "extensionProperties": { 
     "customBackground": "TechnoCardBackground.png" 

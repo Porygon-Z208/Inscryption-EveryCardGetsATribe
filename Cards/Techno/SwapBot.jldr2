@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_SwapBot",
+  "name": "OTC_T_SwapBot",
   "displayedName": "Swapbot",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "Swapbot.png",
   "altTexture": "Swapbot_Swapped.png",
   "emissionTexture": "Swapbot_Emission.png"

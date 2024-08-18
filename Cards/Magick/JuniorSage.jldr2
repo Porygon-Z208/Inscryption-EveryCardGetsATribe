@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_JuniorSage",
+  "name": "OTC_M_JuniorSage",
   "displayedName": "Junior Sage",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "MagickCardBackground.png",
     "customEmissionColorHEX": "#CE35FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_M",
   "texture": "JuniorSage.png",
   "pixelTexture": "JuniorSage_Pixel.png",
   "emissionTexture": "JuniorSage_Emission.png"

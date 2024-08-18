@@ -14,7 +14,7 @@
     "IceCube"
   ],
   "defaultEvolutionName": "Awakened Draugr",
-  "iceCubeName": "ECGT_Skeleton",
+  "iceCubeName": "OTC_U_Skeleton",
   "flipPortraitForStrafe": false,
   "energyCost": 0,
   "bonesCost": 1,
@@ -22,7 +22,7 @@
   "bloodCost": 0,
   "cardComplexity": "Intermediate",
   "onePerDeck": false,
-  "name": "ECGT_Draugr",
+  "name": "OTC_U_Draugr",
   "displayedName": "Draugr",
   "description": "",
   "hideAttackAndHealth": false,
@@ -33,7 +33,7 @@
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "Draugr.png",
   "pixelTexture": "Draugr_Pixel.png",
   "emissionTexture": "Draugr_Emission.png"

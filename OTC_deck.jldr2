@@ -4,36 +4,36 @@
     "name": "UndeadDeckFleshy",
     "iconTexture": "UndeadStarterDeckIcon.png",
     "cards": [
-      "ECGT_Gravedigger",
-      "ECGT_Zombie",
-      "ECGT_FrankNStein"
+      "OTC_Gravedigger",
+      "OTC_Zombie",
+      "OTC_FrankNStein"
     ]
   },
   {
     "name": "TechnoDeckCheap",
     "iconTexture": "TechnoStarterDeckIcon.png",
     "cards": [
-      "ECGT_Automaton",
-      "ECGT_Shieldbot",
-      "ECGT_Sniper"
+      "OTC_Automaton",
+      "OTC_Shieldbot",
+      "OTC_Sniper"
     ]
   },
   {
     "name": "TechnoDeckCaro",
     "iconTexture": "TechnoStarterDeckIcon.png",
     "cards": [
-      "ECGT_EnergyBot",
-      "ECGT_CurveHopper",
-      "ECGT_DoubleGunner"
+      "OTC_EnergyBot",
+      "OTC_CurveHopper",
+      "OTC_DoubleGunner"
     ]
   },
   {
     "name": "MagickDeckCaro",
     "iconTexture": "MagickStarterDeckIcon.png",
     "cards": [
-      "ECGT_MagePupil",
-      "ECGT_ForceMage",
-      "ECGT_GemFiend"
+      "OTC_MagePupil",
+      "OTC_ForceMage",
+      "OTC_GemFiend"
     ]
   }
 ]

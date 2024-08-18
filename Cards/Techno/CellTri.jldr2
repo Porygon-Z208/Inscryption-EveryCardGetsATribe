@@ -19,14 +19,14 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_SplinterCell",
+  "name": "OTC_T_SplinterCell",
   "displayedName": "Splinter Cell",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 1,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground" ],
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "SplinterCell.png",
   "extensionProperties": { 
     "customBackground": "TechnoCardBackground.png" 

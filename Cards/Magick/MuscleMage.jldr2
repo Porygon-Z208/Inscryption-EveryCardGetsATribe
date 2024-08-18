@@ -21,7 +21,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_MuscleMage",
+  "name": "OTC_M_MuscleMage",
   "displayedName": "Muscle Mage",
   "description": "",
   "hideAttackAndHealth": false,
@@ -32,7 +32,7 @@
     "customBackground": "MagickCardBackground.png",
     "customEmissionColorHEX": "#CE35FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_M",
   "texture": "MuscleMage.png",
   "pixelTexture": "MuscleMage_Pixel.png",
   "emissionTexture": "MuscleMage_Emission.png"

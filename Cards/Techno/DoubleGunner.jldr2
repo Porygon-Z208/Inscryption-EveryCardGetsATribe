@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_DoubleGunner",
+  "name": "OTC_T_DoubleGunner",
   "displayedName": "Double Gunner",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "DoubleGunner.png",
   "pixelTexture": "DoubleGunner_Pixel.png",
   "emissionTexture": "DoubleGunner_Emission.png"

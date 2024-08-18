@@ -18,7 +18,7 @@
   "bloodCost": 0,
   "cardComplexity": "Vanilla",
   "onePerDeck": false,
-  "name": "ECGT_Zombie",
+  "name": "OTC_U_Zombie",
   "displayedName": "Zombie",
   "description": "",
   "hideAttackAndHealth": false,
@@ -29,7 +29,7 @@
     "customBackground": "UndeadCardBackground.png",
     "customEmissionColorHEX": "#FFE256"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "Zombie.png",
   "pixelTexture": "Zombie_Pixel.png",
   "emissionTexture": "Zombie_Emission.png"

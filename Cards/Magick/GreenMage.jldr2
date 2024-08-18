@@ -21,7 +21,7 @@
   "bloodCost": 0,
   "cardComplexity": "Intermediate",
   "onePerDeck": false,
-  "name": "ECGT_GreenMage",
+  "name": "OTC_M_GreenMage",
   "displayedName": "Green Mage",
   "description": "",
   "hideAttackAndHealth": false,
@@ -31,9 +31,9 @@
   "extensionProperties": { 
     "customBackground": "MagickCardBackground.png",
     "customEmissionColorHEX": "#CE35FF",
-    "MycoMerger": "ECGT_OrangeMage:ECGT_MasterGoranj"
+    "MycoMerger": "OTC_M_OrangeMage:OTC_M_MasterGoranj"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_M",
   "texture": "GreenMage.png",
   "pixelTexture": "GreenMage_Pixel.png",
   "emissionTexture": "GreenMage_Emission.png"

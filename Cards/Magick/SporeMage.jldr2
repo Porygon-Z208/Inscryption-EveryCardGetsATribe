@@ -22,7 +22,7 @@
   "bloodCost": 0,
   "cardComplexity": "Intermediate",
   "onePerDeck": false,
-  "name": "ECGT_SporeMage",
+  "name": "OTC_M_SporeMage",
   "displayedName": "Blue Sporemage",
   "description": "",
   "hideAttackAndHealth": false,
@@ -33,7 +33,7 @@
     "customBackground": "MagickCardBackground.png",
     "customEmissionColorHEX": "#CE35FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_M",
   "texture": "SporeMage.png",
   "pixelTexture": "SporeMage_Pixel.png",
   "emissionTexture": "SporeMage_Emission.png"

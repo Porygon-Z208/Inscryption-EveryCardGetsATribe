@@ -21,7 +21,7 @@
   "bloodCost": 0,
   "cardComplexity": "Vanilla",
   "onePerDeck": false,
-  "name": "ECGT_HoverMage",
+  "name": "OTC_M_HoverMage",
   "displayedName": "Hover Mage",
   "description": "",
   "hideAttackAndHealth": false,
@@ -32,7 +32,7 @@
     "customBackground": "MagickCardBackground.png",
     "customEmissionColorHEX": "#CE35FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_M",
   "texture": "HoverMage.png",
   "pixelTexture": "HoverMage_Pixel.png",
   "emissionTexture": "HoverMage_Emission.png"

@@ -20,7 +20,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_GhostShip",
+  "name": "OTC_U_GhostShip",
   "displayedName": "Ghost Ship",
   "description": "",
   "hideAttackAndHealth": false,
@@ -31,7 +31,7 @@
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "GhostShip.png",
   "pixelTexture": "GhostShip_Pixel.png",
   "emissionTexture": "GhostShip_Emission.png"

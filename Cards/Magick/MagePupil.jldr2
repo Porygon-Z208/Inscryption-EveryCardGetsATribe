@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_MagePupil",
+  "name": "OTC_M_MagePupil",
   "displayedName": "Mage Pupil",
   "description": "",
   "hideAttackAndHealth": false,
@@ -31,7 +31,7 @@
     "customEmissionColorHEX": "#CE35FF",
     "PrismCost": 1
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_M",
   "texture": "MagePupil.png",
   "pixelTexture": "MagePupil_Pixel.png",
   "emissionTexture": "MagePupil_Emission.png"

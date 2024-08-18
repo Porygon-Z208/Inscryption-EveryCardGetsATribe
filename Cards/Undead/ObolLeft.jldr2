@@ -16,12 +16,12 @@
   "defaultEvolutionName": "Awakened Obol Left",
   "flipPortraitForStrafe": false,
   "energyCost": 0,
-  "bonesCost": 3,
+  "bonesCost": 2,
   "baseHealth": 2,
   "bloodCost": 0,
   "cardComplexity": "Intermediate",
   "onePerDeck": false,
-  "name": "ECGT_BrokenObolLeft",
+  "name": "OTC_U_BrokenObolLeft",
   "displayedName": "Broken Obol",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,9 +30,10 @@
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground", "spapi.inscryption.configemissions.ConfigurableEmissionColor" ],
   "extensionProperties": { 
     "customBackground": "UndeadCardBackground.png" ,
-    "customEmissionColorHEX": "#FFE256"
+    "customEmissionColorHEX": "#FFE256",
+    "MycoMerger": "OTC_U_BrokenObolRight:OTC_U_AncientObol"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "BrokenObolLeft.png",
   "pixelTexture": "BrokenObolLeft_Pixel.png",
   "emissionTexture": "BrokenObolLeft_Emission.png"

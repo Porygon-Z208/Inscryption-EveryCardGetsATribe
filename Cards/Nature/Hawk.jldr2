@@ -21,13 +21,13 @@
   "bloodCost": 2,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_Hawk",
+  "name": "OTC_N_Hawk",
   "displayedName": "Hawk",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 3,
   "appearanceBehaviour": [],
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_N",
   "texture": "Hawk.png"
 }

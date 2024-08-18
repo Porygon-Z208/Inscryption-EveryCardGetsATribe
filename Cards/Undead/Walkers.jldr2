@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_Walkers",
+  "name": "OTC_U_Walkers",
   "displayedName": "The Walkers",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "Walkers.png",
   "pixelTexture": "Walkers_Pixel.png",
   "emissionTexture": "Walkers_Emission.png"

@@ -18,7 +18,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_MrsBomb",
+  "name": "OTC_T_MrsBomb",
   "displayedName": "Mrs. Bomb",
   "description": "",
   "hideAttackAndHealth": false,
@@ -29,7 +29,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "MrsBomb.png",
   "pixelTexture": "MrsBomb_Pixel.png",
   "emissionTexture": "MrsBomb_Emission.png"

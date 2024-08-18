@@ -21,7 +21,7 @@
   "bloodCost": 0,
   "cardComplexity": "Vanilla",
   "onePerDeck": false,
-  "name": "ECGT_MageKnight",
+  "name": "OTC_M_MageKnight",
   "displayedName": "Mage Knight",
   "description": "",
   "hideAttackAndHealth": false,
@@ -32,7 +32,7 @@
     "customBackground": "MagickCardBackground.png",
     "customEmissionColorHEX": "#CE35FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_M",
   "texture": "MageKnight.png",
   "pixelTexture": "MageKnight_Pixel.png",
   "emissionTexture": "MageKnight_Emission.png"

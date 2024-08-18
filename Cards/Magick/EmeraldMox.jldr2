@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_EmeraldMox",
+  "name": "OTC_M_EmeraldMox",
   "displayedName": "Emerald Mox",
   "description": "",
   "hideAttackAndHealth": false,
@@ -35,11 +35,11 @@
     "CSDSideDeckType": "Configurable",
     "CSDNumCards": "12",
     "CSDNumOptions": "3",
-    "CSDOption1": "ECGT_EmeraldMox",
-    "CSDOption2": "ECGT_RubyMox",
-    "CSDOption3": "ECGT_SapphireMox"
+    "CSDOption1": "OTC_M_EmeraldMox",
+    "CSDOption2": "OTC_M_RubyMox",
+    "CSDOption3": "OTC_M_SapphireMox"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_M",
   "texture": "EmeraldMox.png",
   "pixelTexture": "EmeraldMox_Pixel.png"
 }

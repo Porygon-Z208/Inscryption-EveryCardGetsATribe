@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_ExeSkeleton",
+  "name": "OTC_T_ExeSkeleton",
   "displayedName": "ExeSkeleton",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "ExeSkeleton.png",
   "emissionTexture": "ExeSkeleton_Emission.png"
 }

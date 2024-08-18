@@ -20,7 +20,7 @@
   "bloodCost": 0,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_Skelemagus",
+  "name": "OTC_U_Skelemagus",
   "displayedName": "Skelemagus",
   "description": "",
   "hideAttackAndHealth": false,
@@ -31,7 +31,7 @@
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "Skelemagus.png",
   "pixelTexture": "Skelemagus_Pixel.png",
   "emissionTexture": "Skelemagus_Emission.png"

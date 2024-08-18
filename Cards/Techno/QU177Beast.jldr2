@@ -9,7 +9,7 @@
     "Transformer",
     "Sharp"
   ],
-  "evolveIntoName": "ECGT_QU177Bot",
+  "evolveIntoName": "OTC_T_QU177Bot",
   "evolveTurns": 1,
   "defaultEvolutionName": "QU288",
   "flipPortraitForStrafe": false,
@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_QU177Beast",
+  "name": "OTC_T_QU177Beast",
   "displayedName": "QU177",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "QU177Beast.png",
   "emissionTexture": "QU177Beast_Emission.png"
 }

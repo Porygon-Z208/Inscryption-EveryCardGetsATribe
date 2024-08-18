@@ -22,7 +22,7 @@
   "bloodCost": 0,
   "cardComplexity": "Intermediate",
   "onePerDeck": false,
-  "name": "ECGT_ForceMage",
+  "name": "OTC_M_ForceMage",
   "displayedName": "Force Mage",
   "description": "",
   "hideAttackAndHealth": false,
@@ -33,7 +33,7 @@
     "customBackground": "MagickCardBackground.png",
     "customEmissionColorHEX": "#CE35FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_M",
   "texture": "ForceMage.png",
   "pixelTexture": "ForceMage_Pixel.png",
   "emissionTexture": "ForceMage_Emission.png"

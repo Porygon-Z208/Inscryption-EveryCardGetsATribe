@@ -18,7 +18,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_PlasmaJimmy",
+  "name": "OTC_T_PlasmaJimmy",
   "displayedName": "Plasma Jimmy",
   "description": "",
   "hideAttackAndHealth": false,
@@ -29,7 +29,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "PlasmaJimmy.png",
   "emissionTexture": "PlasmaJimmy_Emission.png"
 }

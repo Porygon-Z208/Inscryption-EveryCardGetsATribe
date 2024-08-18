@@ -21,7 +21,7 @@
   "bloodCost": 0,
   "cardComplexity": "Intermediate",
   "onePerDeck": false,
-  "name": "ECGT_MasterBleene",
+  "name": "OTC_M_MasterBleene",
   "displayedName": "Master Bleene",
   "description": "",
   "hideAttackAndHealth": false,
@@ -32,7 +32,7 @@
     "customBackground": "MagickCardBackground.png",
     "customEmissionColorHEX": "#CE35FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_M",
   "texture": "MasterBleene.png",
   "pixelTexture": "MasterBleene_Pixel.png",
   "emissionTexture": "MasterBleene_Emission.png"

@@ -18,7 +18,7 @@
   "bloodCost": 0,
   "cardComplexity": "Vanilla",
   "onePerDeck": false,
-  "name": "ECGT_FrankNStein",
+  "name": "OTC_U_FrankNStein",
   "displayedName": "Frank & Stein",
   "description": "",
   "hideAttackAndHealth": false,
@@ -29,7 +29,7 @@
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "FrankNStein.png",
   "pixelTexture": "FrankNStein_Pixel.png",
   "emissionTexture": "FrankNStein_Emission.png"

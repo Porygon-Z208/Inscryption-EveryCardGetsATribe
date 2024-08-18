@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_Shutterbug",
+  "name": "OTC_T_Shutterbug",
   "displayedName": "Shutterbug",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "Shutterbug.png",
   "pixelTexture": "Shutterbug_Pixel.png",
   "emissionTexture": "Shutterbug_Emission.png"

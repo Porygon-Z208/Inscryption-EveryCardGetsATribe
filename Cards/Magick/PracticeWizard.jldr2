@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Vanilla",
   "onePerDeck": false,
-  "name": "ECGT_PracticeWizard",
+  "name": "OTC_M_PracticeWizard",
   "displayedName": "Practice Wizard",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "MagickCardBackground.png",
     "customEmissionColorHEX": "#CE35FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_M",
   "texture": "PracticeWizard.png",
   "pixelTexture": "PracticeWizard_Pixel.png",
   "emissionTexture": "PracticeWizard_Emission.png"

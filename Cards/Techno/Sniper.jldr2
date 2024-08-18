@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_Sniper",
+  "name": "OTC_T_Sniper",
   "displayedName": "Sniper Bot",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "Sniper.png",
   "pixelTexture": "Sniper_Pixel.png",
   "emissionTexture": "Sniper_Emission.png"

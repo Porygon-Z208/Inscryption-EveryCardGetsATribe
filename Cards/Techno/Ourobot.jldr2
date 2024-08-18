@@ -21,7 +21,7 @@
   "bloodCost": 0,
   "cardComplexity": "Intermediate",
   "onePerDeck": true,
-  "name": "ECGT_Ourobot",
+  "name": "OTC_T_Ourobot",
   "displayedName": "Ourobot",
   "description": "",
   "hideAttackAndHealth": false,
@@ -32,7 +32,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "Ourobot.png",
   "pixelTexture": "Ourobot_Pixel.png",
   "emissionTexture": "Ourobot_Emission.png"

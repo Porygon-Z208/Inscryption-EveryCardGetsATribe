@@ -17,7 +17,7 @@
   "bloodCost": 0,
   "cardComplexity": "Vanilla",
   "onePerDeck": false,
-  "name": "ECGT_ThickDroid",
+  "name": "OTC_T_ThickDroid",
   "displayedName": "Thick Droid",
   "description": "",
   "hideAttackAndHealth": false,
@@ -28,7 +28,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "ThickDroid.png",
   "pixelTexture": "ThickDroid_Pixel.png",
   "emissionTexture": "ThickDroid_Emission.png"

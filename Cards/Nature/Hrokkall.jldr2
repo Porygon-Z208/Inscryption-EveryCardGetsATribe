@@ -19,7 +19,7 @@
   "bloodCost": 1,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_Hrokkall",
+  "name": "OTC_N_Hrokkall",
   "displayedName": "Hrokkall",
   "description": "",
   "hideAttackAndHealth": false,
@@ -28,6 +28,6 @@
   "appearanceBehaviour": [
     "RareCardBackground"
   ],
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_N",
   "texture": "Hrokkall.png"
 }

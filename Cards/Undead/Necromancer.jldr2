@@ -18,7 +18,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_Necromancer",
+  "name": "OTC_U_Necromancer",
   "displayedName": "Necromancer",
   "description": "",
   "hideAttackAndHealth": false,
@@ -29,7 +29,7 @@
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "Necromancer.png",
   "pixelTexture": "Necromancer_Pixel.png",
   "emissionTexture": "Necromancer_Emission.png"

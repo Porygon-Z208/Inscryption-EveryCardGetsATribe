@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_SentryDrone",
+  "name": "OTC_T_SentryDrone",
   "displayedName": "Sentry Drone",
   "description": "",
   "hideAttackAndHealth": false,
@@ -29,9 +29,9 @@
   "extensionProperties": { 
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF",
-    "MycoMerger": "ECGT_SentryDrone:ECGT_SentrySpore"
+    "MycoMerger": "OTC_T_SentryDrone:OTC_T_SentrySpore"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "SentryDrone.png",
   "pixelTexture": "SentryDrone_Pixel.png",
   "emissionTexture": "SentryDrone_Emission.png"

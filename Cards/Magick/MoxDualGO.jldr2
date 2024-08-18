@@ -23,7 +23,7 @@
   "bloodCost": 0,
   "cardComplexity": "Intermediate",
   "onePerDeck": false,
-  "name": "ECGT_GoranjsMox",
+  "name": "OTC_M_GoranjsMox",
   "displayedName": "Goranj's Mox",
   "description": "",
   "hideAttackAndHealth": false,
@@ -34,6 +34,6 @@
     "customBackground": "MagickCardBackground.png",
     "customEmissionColorHEX": "#CE35FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_M",
   "texture": "GoranjsMox.png"
 }

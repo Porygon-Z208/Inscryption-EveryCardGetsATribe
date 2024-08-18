@@ -32,7 +32,7 @@
             "isOpponentSlot": "(![OldSlot.IsPlayerSlot])"
           },
           "card": {
-            "name": "ECGT_Skeleton",
+            "name": "OTC_Skeleton",
             "retainMods": "true"
           },
           "replace": "false"

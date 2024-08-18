@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Simple",
   "onePerDeck": false,
-  "name": "ECGT_L33pB0t",
+  "name": "OTC_T_L33pB0t",
   "displayedName": "L33pB0t",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "L33PB0T.png",
   "emissionTexture": "L33PB0T_Emission.png",
   "pixelTexture": "L33PB0T_Pixel.png"

@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_DrownedSoul",
+  "name": "OTC_U_DrownedSoul",
   "displayedName": "Drowned Soul",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "DrownedSoul.png",
   "pixelTexture": "DrownedSoul_Pixel.png",
   "emissionTexture": "DrownedSoul_Emission.png"

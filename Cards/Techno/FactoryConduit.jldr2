@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_FactoryConduit",
+  "name": "OTC_T_FactoryConduit",
   "displayedName": "Factory Conduit",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "FactoryConduit.png",
   "pixelTexture": "FactoryConduit_Pixel.png",
   "emissionTexture": "FactoryConduit_Emission.png"

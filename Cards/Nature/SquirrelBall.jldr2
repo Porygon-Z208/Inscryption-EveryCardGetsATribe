@@ -19,14 +19,14 @@
   "bloodCost": 1,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_SquirrelBall",
+  "name": "OTC_N_SquirrelBall",
   "displayedName": "Squirrel Ball",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 0,
   "appearanceBehaviour": [],
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_N",
   "texture": "SquirrelBall.png",
   "emissionTexture": "SquirrelBall_Emission.png"
 }

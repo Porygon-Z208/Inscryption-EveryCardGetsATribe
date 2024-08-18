@@ -11,7 +11,7 @@
   "abilities": [
     "Evolve"
   ],
-  "evolveIntoName": "ECGT_MummyLord",
+  "evolveIntoName": "OTC_U_MummyLord",
   "evolveTurns": 1,
   "defaultEvolutionName": "",
   "flipPortraitForStrafe": false,
@@ -21,7 +21,7 @@
   "bloodCost": 0,
   "cardComplexity": "Vanilla",
   "onePerDeck": false,
-  "name": "ECGT_Sarcophagus",
+  "name": "OTC_U_Sarcophagus",
   "displayedName": "Sarcophagus",
   "description": "",
   "hideAttackAndHealth": false,
@@ -32,7 +32,7 @@
     "customBackground": "UndeadCardBackground.png" ,
     "customEmissionColorHEX": "#FFE256"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_U",
   "texture": "Sarcophagus.png",
   "pixelTexture": "Sarcophagus_Pixel.png",
   "emissionTexture": "Sarcophagus_Emission.png"

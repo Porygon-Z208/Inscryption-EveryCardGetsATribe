@@ -19,7 +19,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_BustedPrinter",
+  "name": "OTC_T_BustedPrinter",
   "displayedName": "Busted 3D Printer",
   "description": "",
   "hideAttackAndHealth": false,
@@ -30,7 +30,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "BustedPrinter.png",
   "pixelTexture": "BustedPrinter_Pixel.png",
   "emissionTexture": "BustedPrinter_Emission.png"

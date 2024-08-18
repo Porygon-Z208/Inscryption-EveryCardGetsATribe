@@ -19,14 +19,14 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_AlarmBot",
+  "name": "OTC_T_AlarmBot",
   "displayedName": "Alarm Bot",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 2,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground" ],
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "AlarmBot.png",
   "extensionProperties": { 
     "customBackground": "TechnoCardBackground.png" 

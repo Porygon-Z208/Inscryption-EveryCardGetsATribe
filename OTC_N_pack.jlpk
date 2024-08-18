@@ -1,0 +1,6 @@
+{
+  "Title": "Nature - Omni Temple Cabin",
+  "Description": "[name], [count] cards, f.e. [randomcard].",
+  "ModPrefix": "OTC_N",
+  "validFor": [ "LeshyPack", "P03Pack", "MagnificusPack", "GrimoraPack" ]
+}

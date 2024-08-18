@@ -19,14 +19,14 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_BuffConduit",
+  "name": "OTC_T_BuffConduit",
   "displayedName": "Buff Conduit",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 0,
   "appearanceBehaviour": [ "spapi.inscryption.configemissions.ConfigurableBackground" ],
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "BuffConduit.png",
   "extensionProperties": { 
     "customBackground": "TechnoCardBackground.png" 

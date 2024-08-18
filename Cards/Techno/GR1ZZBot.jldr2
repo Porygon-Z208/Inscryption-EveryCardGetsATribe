@@ -11,7 +11,7 @@
   "abilities": [
     "Transformer"
   ],
-  "evolveIntoName": "ECGT_GR1ZZBeast",
+  "evolveIntoName": "OTC_T_GR1ZZBeast",
   "evolveTurns": 1,
   "defaultEvolutionName": "GR2ZZ",
   "flipPortraitForStrafe": false,
@@ -21,7 +21,7 @@
   "bloodCost": 0,
   "cardComplexity": "Advanced",
   "onePerDeck": false,
-  "name": "ECGT_GR1ZZBot",
+  "name": "OTC_T_GR1ZZBot",
   "displayedName": "GR1ZZ",
   "description": "",
   "hideAttackAndHealth": false,
@@ -32,7 +32,7 @@
     "customBackground": "TechnoCardBackground.png",
     "customEmissionColorHEX": "#00B2FF"
   },
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_T",
   "texture": "GR1ZZBot.png",
   "emissionTexture": "GR1ZZBot_Emission.png"
 }

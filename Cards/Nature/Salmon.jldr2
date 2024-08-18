@@ -20,14 +20,14 @@
   "bloodCost": 2,
   "cardComplexity": "Intermediate",
   "onePerDeck": false,
-  "name": "ECGT_Salmon",
+  "name": "OTC_N_Salmon",
   "displayedName": "Salmon",
   "description": "",
   "hideAttackAndHealth": false,
   "temple": "Nature",
   "baseAttack": 2,
   "appearanceBehaviour": [],
-  "modPrefix": "ECGT",
+  "modPrefix": "OTC_N",
   "texture": "Salmon.png",
   "emissionTexture": "Salmon_Emission.png"
 }
