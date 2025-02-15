@@ -12,12 +12,13 @@ I hope for this to be usable as a standard for adding other temples to act-1 or 
 
 # Credits
 
-- (💜) Kai: Art (New card portraits not otherwise specified, and all new tribe icons) and idea help
-- (Me!) Aubrey: Majority of json, AI-upscaled placeholder portraits, placeholder Mystic tribe icon, and the idea
+- (💜) Kai: Art (All new card portraits and new tribe icons not otherwise specified) and idea help
+- (Me!) Aubrey: Majority of json, AI-upscaled placeholder portraits, and the idea
 - (❤️) Ariel: Some json files and idea help
-- (💸) Prof.Eggnog: Art (New card backgrounds, commissioned)
+- (💸) Prof.Eggnog: Art (New common card backgrounds, commissioned)
+- plonkyj: Art (Mystic tribe icon)
 - Donut: Art (Salmon)
 - minermatecoffee: placeholder Scholar and Guardian (Magick) tribe icons
 - spookyb.: placeholder Gems tribe icon
 
-If you like this mod, consider supporting it and it's creators! (Links TBD)
+If you like this mod, consider supporting it and it's creators! (Links TBA)

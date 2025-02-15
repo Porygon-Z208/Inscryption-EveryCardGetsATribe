@@ -33,6 +33,7 @@
     "customEmissionColorHEX": "#CE35FF",
     "CSDIsSideDeck": "true",
     "CSDSideDeckType": "Configurable",
+    "CSDCanEditDuringRun": "true",
     "CSDNumCards": "12",
     "CSDNumOptions": "3",
     "CSDOption1": "OTC_M_EmeraldMox",
