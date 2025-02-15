@@ -1,4 +1,4 @@
-# v0.0.5 Really-slow-hotfix
+# v0.0.5 - Really-slow-hotfix
 - Fixed starter decks not working
 - Added Mystic tribe icon (thanks to plonkyj)
 - Made the mox side deck configurable mid-run thanks to a new feature from CustomSideDeck!
